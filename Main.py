@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-from loader import load_stories, get_sheet_names
+from sheet_loader import load_stories, get_sheet_names
 
 XLSX_PATH   = "Doctor Who Timeline.xlsx"
 
@@ -16,7 +16,7 @@ def main():
         datasets[name] = stories
 
         unwatched = [s for s in stories if not s["watched"]]
-        print(f"{len(unwatched)} not watched")
+        #print(f"{len(unwatched)} not watched")
         for s in unwatched:
             print(f"    {s['story']} - {s['timeline_season']}E{s['timeline_episode']}")
 
