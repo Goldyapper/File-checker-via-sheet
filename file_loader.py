@@ -55,7 +55,5 @@ def scan_audio_files(root_path):
     return results
 
 
-if __name__ == "__main__":
-    results = scan_audio_files(mypath)
-    for item in results:
-        print(item)
+def file_loader():
+    return scan_audio_files(mypath)

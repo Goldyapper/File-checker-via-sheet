@@ -1,6 +1,8 @@
 import pandas as pd
 
 
+XLSX_PATH   = "Doctor Who Timeline.xlsx"
+
 SKIP_SHEETS = [
     "Time war",
     "Time Lord Victorious",
@@ -13,6 +15,7 @@ def get_sheet_names(xlsx_path):
     sheets = xl.sheet_names[5:8]
     return [s for s in sheets if s not in SKIP_SHEETS]
 
+SHEET_NAMES =  get_sheet_names(XLSX_PATH)
 
 
 def season_sort_key(sn):
@@ -55,7 +58,7 @@ def load_stories(sheet_name,XLSX_PATH):
         except (ValueError, TypeError):
             continue
 
-        watched = (not pd.isna(watched_raw)) and float(watched_raw) == 1.0
+        watched = (not pd.isna(watched_raw)) and float(watched_raw) == 1
 
         rows.append({
             "story": story,
@@ -71,3 +74,17 @@ def load_stories(sheet_name,XLSX_PATH):
     rows.sort(key=lambda r: (*season_sort_key(r["timeline_season"]), r["timeline_episode"]))    
     
     return rows
+
+def sheet_loader():
+    datasets = {}
+    for name in SHEET_NAMES:
+        print(f"{name} timeline scanned")
+        stories = load_stories(name, XLSX_PATH)
+        datasets[name] = stories
+
+        unwatched = [s for s in stories if not s["watched"]]
+        #print(f"{len(unwatched)} not watched")
+        #for s in unwatched:
+            #print(f"    {s['story']} - {s['timeline_season']}E{s['timeline_episode']}")
+
+    return unwatched
