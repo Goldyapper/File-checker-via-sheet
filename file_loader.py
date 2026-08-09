@@ -1,5 +1,4 @@
 import os
-import glob
 import re
 
 mypath = (r"C:\Users\adama\Documents\Coding stuff\File-checker-via-sheet\input")

@@ -1,21 +1,13 @@
 import pandas as pd
 
+from config import XLSX_PATH,SHEET_SLICE
 
-XLSX_PATH   = "Doctor Who Timeline.xlsx"
-
-SKIP_SHEETS = [
-    "Time war",
-    "Time Lord Victorious",
-    "Daleks",
-]
-
-
-def get_sheet_names(xlsx_path):
+def get_sheet_names(xlsx_path,SHEET_SLICE):
     xl = pd.ExcelFile(xlsx_path)
-    sheets = xl.sheet_names[9:10]
-    return [s for s in sheets if s not in SKIP_SHEETS]
+    sheets = xl.sheet_names[SHEET_SLICE]
+    return list(sheets)
 
-SHEET_NAMES =  get_sheet_names(XLSX_PATH)
+SHEET_NAMES =  get_sheet_names(XLSX_PATH,SHEET_SLICE)
 
 
 def season_sort_key(sn):
