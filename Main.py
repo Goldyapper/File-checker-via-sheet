@@ -18,7 +18,7 @@ def main():
         unwatched = [s for s in stories if not s["watched"]]
         print(f"{len(unwatched)} not watched")
         for s in unwatched:
-            print(f"  [{name}] {s['story']} - {s['timeline_season']} ep {s['timeline_episode']}")
+            print(f"    {s['story']} - {s['timeline_season']}E{s['timeline_episode']}")
 
 
 if __name__ == "__main__":
