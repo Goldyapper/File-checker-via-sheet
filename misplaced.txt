@@ -1,0 +1,7 @@
+2 stories found but need to be moved:
+
+=== 5th Dr ===
+  -- S01 --
+    God of War: currently S01E07->  should be S01E17
+  -- S06 --
+    The auton Infinity: currently S01E08->  should be S06E14

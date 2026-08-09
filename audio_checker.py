@@ -49,34 +49,43 @@ def check_stories():
                         "actual_doctor": f.get("doctor", ""),
                     })
 
-    return missing, misplaced
+    return missing, misplaced 
 
-def print_missing(missing):
-    print(f"\n{len(missing)} unwatched stories not found in the folders:")
-
+def format_missing_lines(missing):
+    lines = [f"{len(missing)} unwatched stories not found in the folders:"]
     last_sheet = None
     last_season = None
     for m in missing:
         if m["sheet"] != last_sheet:
-            print(f"\n=== {m['sheet']} ===")
+            lines.append("")
+            lines.append(f"=== {m['sheet']} ===")
             last_sheet = m["sheet"]
             last_season = None
         if m["timeline_season"] != last_season:
-            print(f"  -- {m['timeline_season']} --")
+            lines.append(f"  -- {m['timeline_season']} --")
             last_season = m["timeline_season"]
-        print(f"    {m['story']} - {m['timeline_season']}E{m['timeline_episode']}  "
-            f"({m['series']} / {m['boxset']} / {m['episode']})")
+        lines.append(f"    {m['story']} - {m['timeline_season']}E{m['timeline_episode']}  "
+                    f"({m['series']} / {m['boxset']} / {m['episode']})")
+    return lines
 
-def print_misplaced(misplaced):
-    print(f"\n{len(misplaced)} stories found but need to be moved:")
-
+def format_misplaced_lines(misplaced):
+    lines = [f"{len(misplaced)} stories found but need to be moved:"]
     last_sheet = None
     last_season = None
     for m in misplaced:
         if m["sheet"] != last_sheet:
-            print(f"\n=== {m['sheet']} ===")
+            lines.append("")
+            lines.append(f"=== {m['sheet']} ===")
             last_sheet = m["sheet"]
         if m["expected_season"] != last_season:
-            print(f"  -- {m['expected_season']} --")
+            lines.append(f"  -- {m['expected_season']} --")
             last_season = m["expected_season"]
-        print(f"    {m['story']}: currently S{m['actual_season']}E{m['actual_episode']}->  should be {m['expected_season']}E{m['expected_episode']}")
+        lines.append(f"    {m['story']}: currently S{m['actual_season']}E{m['actual_episode']}"
+                    f"->  should be {m['expected_season']}E{m['expected_episode']}")
+    return lines 
+
+def print_missing(missing):
+    print("\n" + "\n".join(format_missing_lines(missing)))
+
+def print_misplaced(misplaced):
+    print("\n" + "\n".join(format_misplaced_lines(misplaced)))
