@@ -12,7 +12,7 @@ SKIP_SHEETS = [
 
 def get_sheet_names(xlsx_path):
     xl = pd.ExcelFile(xlsx_path)
-    sheets = xl.sheet_names[5:8]
+    sheets = xl.sheet_names[9:10]
     return [s for s in sheets if s not in SKIP_SHEETS]
 
 SHEET_NAMES =  get_sheet_names(XLSX_PATH)
@@ -80,11 +80,11 @@ def sheet_loader():
     for name in SHEET_NAMES:
         print(f"{name} timeline scanned")
         stories = load_stories(name, XLSX_PATH)
-        datasets[name] = stories
-
         unwatched = [s for s in stories if not s["watched"]]
+        datasets[name] = unwatched
+
         #print(f"{len(unwatched)} not watched")
         #for s in unwatched:
             #print(f"    {s['story']} - {s['timeline_season']}E{s['timeline_episode']}")
 
-    return unwatched
+    return datasets
