@@ -1,7 +1,6 @@
 import os
 import re
-
-mypath = (r"C:\Users\adama\Documents\Coding stuff\File-checker-via-sheet\input")
+from config import mypath
 
 
 def parse_file(file_path,season_folder):

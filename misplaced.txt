@@ -1,7 +1,474 @@
-2 stories found but need to be moved:
+336 stories found but need to be moved:
+
+=== 2nd Dr ===
+  -- S06 --
+    Legend of the Cybermen: currently S08E15->  should be S06E1
 
 === 5th Dr ===
   -- S01 --
+    Cold Fusion: currently S08E12->  should be S01E3
     God of War: currently S01E07->  should be S01E17
+  -- S04 --
+    Conversion: currently S01E06->  should be S04E15
+  -- S05 --
+    The sirens of time: currently S12E01->  should be S05E32
   -- S06 --
     The auton Infinity: currently S01E08->  should be S06E14
+  -- S07 --
+    The End of the Beginning: currently S13E03->  should be S07E10
+
+=== 6th Dr ===
+  -- S06 --
+    The Sirens of Time: currently S12E01->  should be S06E3
+    A death in the family: currently S12E06->  should be S06E28
+  -- S07 --
+    The Wrong Doctors: currently S04E05->  should be S07E1
+  -- S08 --
+    City of spires: currently S08E12->  should be S08E13
+    Night's Black agents: currently S08E13->  should be S08E14
+    Legend of the cybermen: currently S08E15->  should be S08E16
+  -- S09 --
+    Masterpiece: currently S03E13->  should be S09E22
+    The end of the beginning: currently S07E10->  should be S09E46
+    The end of the beginning: currently S13E03->  should be S09E46
+  -- S10 --
+    Jago & Litefoot forever: currently S04E09->  should be S10E2
+    Mind of the hodiac: currently S10E18->  should be S10E17
+    The Doctor and His Amazing Technicolour Nightmare Coat: currently S10E26->  should be S10E20
+    the wishing beast: currently S10E22->  should be S10E28
+    the vanity box: currently S10E23->  should be S10E29
+
+=== 7th Dr ===
+  -- S06 --
+    A death in the family: currently S12E06->  should be S06E23
+  -- S08 --
+    Cold fusion: currently S01E03->  should be S08E12
+  -- S09 --
+    The final amendment: currently S05E11->  should be S09E1
+    many happy returns: currently S09E01->  should be S09E2
+    the Revolution: currently S10E01->  should be S09E3
+    Good night, sweet Ladies: currently S10E02->  should be S09E4
+    The Pyramid of Sutekh: currently S10E04->  should be S09E6
+    The vaults of Osiris: currently S10E05->  should be S09E7
+    The eye of Horus: currently S10E06->  should be S09E8
+    The tears of Isis: currently S10E07->  should be S09E9
+  -- S10 --
+    The night before Christmas: currently S10E04->  should be S10E5
+    A thousand tiny wings: currently S10E06->  should be S10E7
+    The architects of history: currently S10E09->  should be S10E10
+    The monsters of Gokroth: currently S10E10->  should be S10E11
+    The moons of Vulpana: currently S10E11->  should be S10E12
+    An alien werewolf in London: currently S10E12->  should be S10E13
+  -- S12 --
+    Valhalla: currently S12E08->  should be S12E9
+    Frozen Time: currently S12E09->  should be S12E10
+    Return of the Daleks: currently S12E10->  should be S12E11
+    Twilight's end: currently S12E11->  should be S12E12
+    Persuasion: currently S12E18->  should be S12E19
+    Starlight robbery: currently S12E19->  should be S12E20
+    Daleks Among Us: currently S12E20->  should be S12E21
+  -- S13 --
+    The end of the Beginning: currently S07E10->  should be S13E3
+    Dark Universe: currently S13E04->  should be S13E7
+
+=== 8th Dr ===
+  -- S04 --
+    The end of the beginning: currently S07E10->  should be S04E10
+    The end of the beginning: currently S13E03->  should be S04E10
+  -- FS05 --
+    Hooklight 1: currently S01E26->  should be FS05E1
+
+=== The Valeyard ===
+  -- S01 --
+    The red house: currently S08E04->  should be S01E7
+    The brink of death: currently S12E01->  should be S01E9
+  -- S02 --
+    Every dark Thought: currently S06E02->  should be S02E1
+
+=== The Curator ===
+  -- S01 --
+    The Curator's Gambit: currently S16E03->  should be S01E3
+
+=== Unbound Dr ===
+    The library in the body: currently S11E01->  should be S01E3
+    Planet X: currently S11E02->  should be S01E4
+    The very dark thing: currently S11E03->  should be S01E5
+    The emporium at the end: currently S11E04->  should be S01E7
+    The city and the clock: currently S11E05->  should be S01E8
+    Asking for a friend: currently S11E06->  should be S01E9
+    Truant: currently S11E07->  should be S01E10
+    The true saviour of the universe: currently S11E08->  should be S01E11
+    Pride of the Lampian: currently S12E02->  should be S01E13
+    Clear history: currently S12E03->  should be S01E14
+    Dead and breakfast: currently S12E04->  should be S01E15
+    Burrowed Time: currently S12E05->  should be S01E16
+    Have I Told You Lately: currently S12E06->  should be S01E17
+    The Undying Truth: currently S12E07->  should be S01E18
+    Wilkommen: currently S12E10->  should be S01E20
+    Wulf: currently S12E11->  should be S01E21
+    Ubermensch: currently S12E12->  should be S01E22
+    Auf Wiedersehen: currently S12E13->  should be S01E23
+
+=== Fugitive Dr ===
+  -- S02 --
+    Flying Solo: currently S02E04->  should be S02E5
+    The Junkyard Loop: currently S02E05->  should be S02E6
+    Hereafter: currently S02E06->  should be S02E7
+
+=== Torchwood ===
+  -- S01 --
+    The Death of Captain Jack: currently S06E01->  should be S01E7
+  -- S02 --
+    Pimlico: currently S02E10->  should be S02E16
+    O Little Town of Ashenden: currently S02E11->  should be S02E17
+    The National Health: currently S02E12->  should be S02E18
+    Rivers of Blood: currently S02E13->  should be S02E19
+    Now is the Time for All Good Men: currently S02E14->  should be S02E20
+    The Hour of the Hollow Man: currently S02E15->  should be S02E21
+    A first Breath: currently S02E17->  should be S02E22
+    The Ghost Wall: currently S02E18->  should be S02E23
+    The taken: currently S02E19->  should be S02E24
+    Afterwards they came: currently S02E20->  should be S02E25
+    Confessions: currently S02E21->  should be S02E26
+    Mandeville Walks: currently S02E22->  should be S02E27
+  -- S03 --
+    Damaged Goods: currently S08E13->  should be S03E4
+  -- S06 --
+    The death of Captain Jack: currently S06E01->  should be S06E2
+    Wednesdays for Beginners: currently S06E04->  should be S06E5
+    Crush: currently S06E05->  should be S06E6
+  -- S12 --
+    Smashed: currently S12E08->  should be S12E10
+  -- S18 --
+    Thirst trap: currently S18E01->  should be S18E2
+  -- S21 --
+    Empire of Shadows: currently S20E02->  should be S21E6
+
+=== The Master ===
+  -- S01 --
+    Masterful: currently S08E04->  should be S01E1
+    Masterful: currently S09E02->  should be S01E1
+    Masterful: currently S12E06->  should be S01E1
+    Masterful: currently S14E04->  should be S01E1
+    Masterful: currently S16E12->  should be S01E1
+    The library in the body: currently S11E01->  should be S01E2
+    The emporium at the end: currently S11E04->  should be S01E3
+    The true saviour of the universe: currently S11E08->  should be S01E4
+    Masterful: currently S01E01->  should be S01E5
+    Masterful: currently S08E04->  should be S01E5
+    Masterful: currently S09E02->  should be S01E5
+    Masterful: currently S12E06->  should be S01E5
+    Masterful: currently S14E04->  should be S01E5
+    Masterful: currently S16E12->  should be S01E5
+  -- S04 --
+    The Museum of curiosities: currently S03E09->  should be S04E4
+    Maurice: currently S03E11->  should be S04E6
+    The Woman in White: currently S03E12->  should be S04E7
+    Masterpiece: currently S03E13->  should be S04E8
+  -- S06 --
+    The Auton Infinity: currently S01E08->  should be S06E8
+  -- S07 --
+    Master: currently S12E07->  should be S07E2
+  -- S08 --
+    Masterful: currently S01E01->  should be S08E4
+    Masterful: currently S09E02->  should be S08E4
+    Masterful: currently S12E06->  should be S08E4
+    Masterful: currently S14E04->  should be S08E4
+    Masterful: currently S16E12->  should be S08E4
+  -- S09 --
+    Masterful: currently S01E01->  should be S09E2
+    Masterful: currently S08E04->  should be S09E2
+    Masterful: currently S12E06->  should be S09E2
+    Masterful: currently S14E04->  should be S09E2
+    Masterful: currently S16E12->  should be S09E2
+  -- S10 --
+    Masterful: currently S01E01->  should be S10E10
+    Masterful: currently S08E04->  should be S10E10
+    Masterful: currently S09E02->  should be S10E10
+    Masterful: currently S12E06->  should be S10E10
+    Masterful: currently S14E04->  should be S10E10
+    Masterful: currently S16E12->  should be S10E10
+  -- S12 --
+    Code silver: currently S14E07->  should be S12E15
+    Master of worlds: currently S14E08->  should be S12E16
+    Masterful: currently S01E01->  should be S12E21
+    Masterful: currently S08E04->  should be S12E21
+    Masterful: currently S09E02->  should be S12E21
+    Masterful: currently S12E06->  should be S12E21
+    Masterful: currently S14E04->  should be S12E21
+    Masterful: currently S16E12->  should be S12E21
+  -- S13 --
+    The devil you know: currently S15E12->  should be S13E6
+  -- S14 --
+    Masterful: currently S01E01->  should be S14E4
+    Masterful: currently S08E04->  should be S14E4
+    Masterful: currently S09E02->  should be S14E4
+    Masterful: currently S12E06->  should be S14E4
+    Masterful: currently S16E12->  should be S14E4
+  -- S16 --
+    Masterful: currently S01E01->  should be S16E12
+    Masterful: currently S08E04->  should be S16E12
+    Masterful: currently S09E02->  should be S16E12
+    Masterful: currently S12E06->  should be S16E12
+    Masterful: currently S14E04->  should be S16E12
+  -- S17 --
+    Masterful: currently S01E01->  should be S17E1
+    Masterful: currently S08E04->  should be S17E1
+    Masterful: currently S09E02->  should be S17E1
+    Masterful: currently S12E06->  should be S17E1
+    Masterful: currently S14E04->  should be S17E1
+    Masterful: currently S16E12->  should be S17E1
+
+=== Naomi + Harry ===
+  -- S02 --
+    Fire and Ice: currently S16E02->  should be S02E1
+    Power of the dominators: currently S16E06->  should be S02E2
+    By Jacqui McGee: currently S16E10->  should be S02E3
+    Axos Unleashed: currently S16E11->  should be S02E4
+    Time of the Vulpreen: currently S16E12->  should be S02E5
+  -- S03 --
+    London Orbital: currently S11E01->  should be S03E1
+    Scream of the Daleks: currently S11E02->  should be S03E2
+    Operation Dusk: currently S11E03->  should be S03E3
+    Naomi's Ark: currently S11E04->  should be S03E4
+
+=== Vienna ===
+    Prey: currently S08E06->  should be S03E1
+    Vengeance: currently S08E07->  should be S03E2
+    Nemesis express: currently S08E08->  should be S03E3
+    Passion: currently S08E10->  should be S03E5
+
+=== Bernice Summerfield ===
+  -- S01 --
+    Nightshade: currently S08E01->  should be S01E2
+    Love and War: currently S08E02->  should be S01E3
+    The highest science: currently S08E03->  should be S01E4
+    Theatre of war: currently S08E04->  should be S01E5
+    All-consuming fire: currently S08E05->  should be S01E6
+    The shadow of the scourge: currently S08E06->  should be S01E7
+    The dark flame: currently S08E07->  should be S01E8
+    Bernice Summerfield and the Criminal Code: currently S08E09->  should be S01E10
+    Original sin: currently S08E11->  should be S01E11
+  -- S04 --
+    The Lost Museum: currently S04E09->  should be S04E10
+  -- S12 --
+    Wilkommen: currently S12E10->  should be S12E9
+    Wulf: currently S12E11->  should be S12E10
+    Ubermensch: currently S12E12->  should be S12E11
+    Auf Wiedersehen: currently S12E13->  should be S12E12
+
+=== UNIT ===
+  -- S08 --
+    The Auton Infinity: currently S01E08->  should be S08E4
+    Persuasion: currently S12E18->  should be S08E8
+    Hour of the cybermen: currently S10E09->  should be S08E9
+  -- S12 --
+    Mastermind: currently S09E01->  should be S12E4
+  -- S16 --
+    Eleven's Eleven: currently S16E04->  should be S16E3
+    The Curator's Gambit: currently S16E03->  should be S16E4
+  -- S21 --
+    A Death in the Family: currently S12E06->  should be S21E2
+
+=== Gallifrey ===
+  -- S02 --
+    Flying Solo: currently S02E04->  should be S02E7
+    The Junkyard Loop: currently S02E05->  should be S02E8
+    Hereafter: currently S02E06->  should be S02E9
+  -- S07 --
+    The five companions: currently S05E31->  should be S07E5
+  -- S08 --
+    The brink of death: currently S12E01->  should be S08E11
+  -- S09 --
+    Dark universe: currently S13E04->  should be S09E7
+  -- S10 --
+    The Sirens of time: currently S12E01->  should be S10E2
+    The Crystal of Cantus: currently S04E11->  should be S10E5
+  -- S11 --
+    The Quantum Possibility Engine: currently S07E13->  should be S11E1
+  -- S14 --
+    Intervention earth: currently S13E04->  should be S14E5
+    The Adventure of the Diogenes Damsel: currently S06E05->  should be S14E8
+    Enemy lines: currently S13E06->  should be S14E8
+  -- S15 --
+    Celestial intervention: currently S15E05->  should be S15E2
+    Soldier obscura: currently S15E06->  should be S15E3
+    The devil you know: currently S15E12->  should be S15E13
+    Damaged Goods: currently S08E13->  should be S15E14
+    Desperate measures: currently S15E13->  should be S15E15
+    Havoc: currently S15E23->  should be S15E16
+    Partisans: currently S15E24->  should be S15E17
+    Collateral: currently S15E25->  should be S15E18
+    Assassins: currently S15E26->  should be S15E19
+  -- S16 --
+    Hostiles: currently S19E10->  should be S16E1
+    Nevernor: currently S19E11->  should be S16E13
+    Mother tongue: currently S19E12->  should be S16E14
+  -- S17 --
+    Unity: currently S19E13->  should be S17E27
+    Deception: currently S19E12->  should be S17E28
+    Dissolution: currently S19E15->  should be S17E29
+    Beyond: currently S19E16->  should be S17E30
+    Homecoming: currently S19E17->  should be S17E31
+  -- S18 --
+    The Last Days of Freme: currently S19E18->  should be S18E1
+    The Passenger: currently S19E19->  should be S18E2
+    Collateral Victim: currently S19E20->  should be S18E3
+    The First Days of Phaidon: currently S19E21->  should be S18E4
+
+=== Davros ===
+  -- S02 --
+    The Curse of Davros: currently S09E01->  should be S02E11
+    Daleks Among us: currently S12E20->  should be S02E13
+
+=== Daleks ===
+  -- S04 --
+    Love and war: currently S08E02->  should be S04E5
+  -- S07 --
+    the movellan manoeuvre: currently S02E12->  should be S07E2
+    the dalek gambit: currently S02E13->  should be S07E3
+    the five companions: currently S05E31->  should be S07E19
+  -- S08 --
+    The Curse of Davros: currently S09E01->  should be S08E10
+    scream of the daleks: currently S11E02->  should be S08E16
+    Daleks Among us: currently S12E20->  should be S08E18
+  -- S09 --
+    Invasion of the daleks: currently S02E01->  should be S09E7
+    The Human Factor: currently S02E02->  should be S09E8
+    Return of the Daleks: currently S12E10->  should be S09E9
+    The Fearless Chapter One: currently S02E04->  should be S09E10
+    The Fearless Chapter Two: currently S02E05->  should be S09E11
+    The Fearless Chapter Three: currently S02E06->  should be S09E12
+    The Fearless Chapter Four: currently S02E07->  should be S09E13
+    Death To The Daleks!: currently S02E08->  should be S09E14
+    Project infinity: currently S02E09->  should be S09E15
+    Dalek War Chapter One: currently S02E10->  should be S09E16
+    Dalek War Chapter Two: currently S02E11->  should be S09E17
+    Dalek War Chapter Three: currently S02E12->  should be S09E18
+    Dalek War Chapter Four: currently S02E13->  should be S09E19
+  -- S10 --
+    The Exterminators: currently S03E01->  should be S10E1
+    The Healers: currently S03E02->  should be S10E2
+    The Survivors: currently S03E03->  should be S10E3
+    The Demons: currently S03E04->  should be S10E4
+    The Warriors: currently S03E05->  should be S10E5
+    The Future: currently S03E06->  should be S10E6
+    The Revolution: currently S10E01->  should be S10E8
+    Good Night, Sweet Ladies: currently S10E02->  should be S10E9
+  -- S13 --
+    Soldier obscura: currently S15E06->  should be S13E5
+    The wrath of medusa: currently S12E01->  should be S13E6
+    Desperate measures: currently S15E13->  should be S13E13
+  -- S14 --
+    Unity: currently S19E13->  should be S14E7
+    Dissolution: currently S19E15->  should be S14E8
+    Homecoming: currently S19E17->  should be S14E9
+    The First Days of Phaidon: currently S19E21->  should be S14E10
+
+=== Counter Measures ===
+  -- S01 --
+    Nothing to See Here: currently S02E02->  should be S01E3
+    Troubled Waters: currently S02E03->  should be S01E4
+    The Phoenix Strain: currently S02E04->  should be S01E5
+    A Gamble With Time: currently S02E05->  should be S01E6
+    The Splintered Man: currently S02E06->  should be S01E7
+    The Ship of the Sleepwalkers: currently S02E07->  should be S01E8
+    My Enemy's Enemy: currently S02E08->  should be S01E9
+    Time of the Intelligence: currently S02E09->  should be S01E10
+    The Hollow King: currently S02E10->  should be S01E11
+    The Movellan Manoeuvre: currently S02E12->  should be S01E13
+    The Dalek Gambit: currently S02E13->  should be S01E14
+
+=== Sherlock Holmes ===
+    All-consuming fire: currently S08E05->  should be S01E3
+
+=== Dorian Gray ===
+    Shades of Gray: currently S08E06->  should be S01E49
+
+=== Iris Wildthyme ===
+    Excelis Dawns: currently S06E12->  should be S01E1
+    Wildthyme at Large: currently S01E03->  should be S01E4
+    The Devil in Ms Wildthyme: currently S01E04->  should be S01E5
+    The Sound of Fear: currently S01E05->  should be S01E6
+    The Plague Herds of Excelis: currently S03E04->  should be S01E7
+    Many Happy Returns: currently S09E01->  should be S01E8
+    The Land of Wonder: currently S01E07->  should be S01E9
+    The Two Irises: currently S01E08->  should be S01E10
+    The Panda Invasion: currently S01E09->  should be S01E11
+    The Claws of Santa: currently S01E10->  should be S01E12
+    The Iris Wildthyme Appreciation Society: currently S01E13->  should be S01E15
+    Iris Rides Out: currently S01E14->  should be S01E16
+    Midwinter Murders: currently S01E15->  should be S01E17
+    Iris at the Oche: currently S01E17->  should be S01E19
+    A Lift in Time: currently S01E18->  should be S01E20
+  -- S02 --
+    High Spirits: currently S02E07->  should be S02E10
+
+=== The Eleven ===
+  -- S05 --
+    The Enemy Beyond: currently S16E01->  should be S05E4
+    Eleven's Eleven: currently S16E04->  should be S05E5
+    The Curator's Gambit: currently S16E03->  should be S05E6
+    The man from Gallifrey: currently S16E05->  should be S05E7
+    The War Factory: currently S16E07->  should be S05E8
+    Ten minutes in Hell: currently S16E08->  should be S05E9
+    Axos Unleashed: currently S16E11->  should be S05E10
+    Time of the Vulpreen: currently S16E12->  should be S05E11
+  -- S06 --
+    Dark universe: currently S13E04->  should be S06E1
+
+=== Dalek Empire ===
+  -- S02 --
+    The Exterminators: currently S03E01->  should be S02E1
+    The Healers: currently S03E02->  should be S02E2
+    Return of the Daleks: currently S12E10->  should be S02E3
+    The Survivors: currently S03E03->  should be S02E3
+    The Demons: currently S03E04->  should be S02E4
+    The Warriors: currently S03E05->  should be S02E5
+    The Future: currently S03E06->  should be S02E6
+
+=== Forge Arc ===
+  -- S03 --
+    A death in the family: currently S12E06->  should be S03E4
+    Master: currently S12E07->  should be S03E5
+
+=== Time Lord Victorious ===
+    Have I told you lately: currently S12E06->  should be S03E4
+
+=== Time war ===
+  -- S01 --
+    Return of the Daleks: currently S12E10->  should be S01E9
+    Damaged goods: currently S08E13->  should be S01E23
+  -- S03 --
+    Celestial intervention: currently S15E05->  should be S03E1
+    Soldier obscura: currently S15E06->  should be S03E2
+  -- S04 --
+    The wrath of medusa: currently S12E01->  should be S04E5
+    The shadow Master: currently S12E02->  should be S04E6
+    The adventure of the Deceased Doctor: currently S12E03->  should be S04E7
+    The master of Dorian Gray: currently S12E04->  should be S04E8
+    Telepresence: currently S14E06->  should be S04E9
+    Code silver: currently S14E07->  should be S04E10
+    Master of worlds: currently S14E08->  should be S04E11
+    The devil you know: currently S15E12->  should be S04E29
+  -- S05 --
+    Desperate measures: currently S15E13->  should be S05E1
+    Havoc: currently S15E23->  should be S05E2
+    Partisans: currently S15E24->  should be S05E3
+    Collateral: currently S15E25->  should be S05E4
+    Assassins: currently S15E26->  should be S05E5
+  -- S09 --
+    Hostiles: currently S19E10->  should be S09E1
+    Nevernor: currently S19E11->  should be S09E2
+    Mother tongue: currently S19E12->  should be S09E3
+  -- S13 --
+    Unity: currently S19E13->  should be S13E1
+    Deception: currently S19E12->  should be S13E2
+    Dissolution: currently S19E15->  should be S13E3
+    Beyond: currently S19E16->  should be S13E4
+    Homecoming: currently S19E17->  should be S13E5
+  -- S14 --
+    The Last Days of Freme: currently S19E18->  should be S14E1
+    The Passenger: currently S19E19->  should be S14E2
+    Collateral Victim: currently S19E20->  should be S14E3
+    The First Days of Phaidon: currently S19E21->  should be S14E4

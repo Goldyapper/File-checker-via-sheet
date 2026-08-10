@@ -1,4 +1,56 @@
-33 unwatched stories not found in the folders:
+953 unwatched stories not found in the folders:
+
+=== 1st Dr ===
+  -- S03 --
+    The Kraken of Hagwell - S03E19  (The Companion Chronicles / The Legacy of Time / 1)
+    The Heartless Sea - S03E20  (The Companion Chronicles / The Legacy of Time / 2)
+    Collision Course - S03E21  (The Legacy of Time / nan / 6)
+    The Time-Splitters - S03E32  (The Audio Novellas / nan / 1)
+    Sea Smoke - S03E48  (Halloween / Sea Smoke and Other Stories / 1)
+    Beware the City of Illusions - S03E52  (The First Doctor Adventures / Beware the City of Illusions / 1)
+
+=== 2nd Dr ===
+  -- S02 --
+    The Heartless Sea - S02E18  (The Companion Chronicles / The Legacy of Time / 2)
+    Collision Course - S02E19  (The Legacy of Time / nan / 6)
+  -- S04 --
+    The Houseguest - S04E15  (The Paternoster Gang / Trespassers: No Place Like Home / 9)
+    1957 - Double Agent - S04E16  (Zygon Century / Infiltration / 3)
+
+=== 3rd Dr ===
+  -- S01 --
+    Dimension 13 - S01E27  (The Audio Novellas / nan / 2)
+  -- S02 --
+    The Sacrifice of Jo Grant - S02E7  (The Legacy of Time / nan / 3)
+    The Tip of the Mind - S02E11  (Short Trips / Impeccable and Other Stories / 5)
+  -- S05 --
+    The Box of Terror - S05E6  (The Audio Novels / nan / 6)
+    Operation: Vengeance - S05E16  (The Third Doctor Adventures / Operation Vengeance / 1)
+    The Imposters - S05E17  (The Third Doctor Adventures / The Imposters / 1)
+
+=== 4th Dr ===
+  -- S02 --
+    The Box of Terror - S02E12  (The Audio Novels / nan / 6)
+    The Ministry of Death - S02E14  (The Fourth Doctor Adventures / The Ministry of Death / 1)
+    The Inhumane Empire - S02E15  (The Fourth Doctor Adventures / The Ministry of Death / 2)
+    Green and Pleasant Planet - S02E16  (The Fourth Doctor Adventures / Lethal Progress / 3)
+    The Continuum - S02E17  (The Fourth Doctor Adventures / Lethal Progress / 4)
+    The Audience - S02E18  (The Fourth Doctor Adventures / Lethal Progress / 5)
+  -- S03 --
+    Anne of a Thousand Light Years - S03E12  (The Paternoster Gang / Trespassers: The Casebook of Paternoster Row / 1)
+    Cut-Out - S03E22  (Short Trips / Impeccable and Other Stories / 3)
+  -- S05 --
+    The Hellwood Inheritance - S05E24  (The Fourth Doctor Adventures / The Hellwood Inheritance / 1)
+    The Memory Thieves - S05E25  (The Fourth Doctor Adventures / The Hellwood Inheritance / 2)
+    The Remains of Kaerula - S05E26  (The Fourth Doctor Adventures / The Ruins of Kaerula / 3)
+    The Ruins of Kaerula - S05E27  (The Fourth Doctor Adventures / The Ruins of Kaerula / 4)
+    Cry of the Banshee - S05E28  (The Fourth Doctor Adventures / The Ruins of Kaerula / 5)
+    Conspiracy of Silence - S05E29  (The Fourth Doctor Adventures / The Last Queen of the Nile / 6)
+    The Last Queen of the Nile - S05E30  (The Fourth Doctor Adventures / The Last Queen of the Nile / 7)
+  -- S07 --
+    The Lord of Misrule - S07E17  (The Audio Novels / nan / 8)
+  -- S08 --
+    Collision Course - S08E20  (The Legacy of Time / nan / 6)
 
 === 5th Dr ===
   -- S01 --
@@ -17,7 +69,6 @@
     Relative time - S03E13  (The Legacy of Time / nan / 4)
   -- S04 --
     Secrets of telos - S04E5  (The Fifth Doctor Adventures / Forty: Volume 1 / 1)
-    Conversion - S04E15  (Monthly Range / nan / 258B)
     Ghost station - S04E16  (Monthly Range / nan / 266A)
     The Bridge master - S04E17  (Monthly Range / nan / 266B)
     What lurks down under - S04E18  (Monthly Range / nan / 266C)
@@ -33,7 +84,6 @@
     Resistor - S05E6  (The Fifth Doctor Adventures / In the Night / 2)
     Black Thursday - S05E27  (Monthly Range / nan / 248A)
     Power Game - S05E28  (Monthly Range / nan / 248B)
-    The sirens of time - S05E32  (Monthly Range / nan / 1)
   -- S06 --
     Dark is the Devil that Walks - S06E6  (Short Trips / Tales from the Vortex / 6)
     Meanwhile Turlough - S06E7  (Interludes / nan / 7)
@@ -41,3 +91,1154 @@
     The Veiled Leopard - S09E10  (Bonus Releases / nan / Special)
     The helliax rift - S09E11  (Monthly Range / nan / 237)
     The gathering - S09E12  (Monthly Range / nan / 87)
+
+=== 6th Dr ===
+  -- S01 --
+    Escape from Holy Island - S01E10  (The Sixth Doctor Adventures / The Quin Dilemma / 2)
+  -- S03 --
+    The reaping - S03E3  (Monthly Range / nan / 86)
+    The Thousand Year Thaw - S03E9  (The Sixth Doctor Adventures / The Quin Dilemma / 5)
+    Prime winner - S03E25  (Short Trips / Series 6 / 2)
+  -- S05 --
+    Piece of mind - S05E2  (The Lives of Captain Jack / Volume 2 / 1)
+    Cut-out - S05E4  (Short Trips / Impeccable and Other Stories / 3)
+    Excelis Rising - S05E5  (Excelis Saga / nan / 2)
+    The Acheron pulse - S05E12  (Monthly Range / nan / 166)
+    The Meddling Monks - S05E15  (Dark Gallifrey / nan / 1 - 3)
+  -- S06 --
+    Medicinal Purposes - S06E13  (Monthly Range / nan / 60)
+    Pier Pressure - S06E14  (Monthly Range / nan / 78)
+    The nowhere place - S06E15  (Monthly Range / nan / 84)
+    100 BC - S06E16  (Monthly Range / nan / 100A)
+    My own private Wolfgang - S06E17  (Monthly Range / nan / 100B)
+    Bedtime Story - S06E18  (Monthly Range / nan / 100C)
+    The 100 days of the Doctor - S06E19  (Monthly Range / nan / 100D)
+    Assassin in the limelight - S06E20  (Monthly Range / nan / 108)
+    A town called fortune - S06E21  (The Companion Chronicles / S05 / 5)
+    The Crimes of Thomas Brewster - S06E22  (Monthly Range / nan / 143)
+    The feast of Axos - S06E23  (Monthly Range / nan / 144)
+    Industrial Evolution - S06E24  (Monthly Range / nan / 145)
+    Mission Improbable - S06E25  (Subscriber Short Trips / nan / 34)
+    The Hoxteth Time Capsule - S06E26  (Short Trips / Series 12 / Special)
+    Thicker than water - S06E27  (Monthly Range / nan / 73)
+  -- S07 --
+    Second sight - S07E2  (The Worlds of Doctor Who / 1 / 4)
+    Dead men's tales - S07E7  (Jago & Litefoot / 3 / 1)
+    The man at the end of the garden - S07E8  (Jago & Litefoot / 3 / 2)
+    Swan song - S07E9  (Jago & Litefoot / 3 / 3)
+    Chronoclasm - S07E10  (Jago & Litefoot / 3 / 4)
+    Jago in love - S07E11  (Jago & Litefoot / 4 / 1)
+    Beautiful Things - S07E12  (Jago & Litefoot / 4 / 2)
+    The Lonely Clock - S07E13  (Jago & Litefoot / 4 / 3)
+    The Hourglass Killers - S07E14  (Jago & Litefoot / 4 / 4)
+    Voyage to Venus - S07E15  (The Sixth Doctor Adventures / Special / Special)
+    Voyage to the new world - S07E16  (The Sixth Doctor Adventures / Special / Special)
+  -- S08 --
+    The Avenues of possibility - S08E5  (The Legacy of Time / nan / 5)
+    The Wreck of the titan - S08E15  (Monthly Range / nan / 134)
+  -- S09 --
+    Wirrn Isle - S09E3  (Monthly Range / nan / 158)
+    Stage Fright - S09E4  (The Sixth Doctor Adventures / The Last Advenure / 3)
+    Vortex Ice - S09E5  (Monthly Range / nan / 225A)
+    Cortex Fire - S09E6  (Monthly Range / nan / 225B)
+    Antidote to oblivion - S09E7  (Monthly Range / nan / 182)
+    The blood of erys - S09E8  (Monthly Range / nan / 183)
+    Scavenger - S09E9  (Monthly Range / nan / 184)
+    The Widow's Assassin - S09E10  (Monthly Range / nan / 192)
+    Masters of earth - S09E11  (Monthly Range / nan / 193)
+    The Rani Elite - S09E12  (Monthly Range / nan / 194)
+    The headless ones - S09E13  (The Sixth Doctor Adventures / The Sixth Doctor and Peri / 1)
+    Like - S09E14  (The Sixth Doctor Adventures / The Sixth Doctor and Peri / 2)
+    The vanity trap - S09E15  (The Sixth Doctor Adventures / The Sixth Doctor and Peri / 3)
+    Conflict theory - S09E16  (The Sixth Doctor Adventures / The Sixth Doctor and Peri / 4)
+    Saoirse of the Seven Seas - S09E17  (The Sixth Doctor Adventures / Bad Terms / 1)
+    Red for Danger! - S09E18  (The Sixth Doctor Adventures / Bad Terms / 2)
+    The Reckoning - S09E19  (The Sixth Doctor Adventures / Expulsion / 1)
+    A Crucible of Queens - S09E20  (The Sixth Doctor Adventures / Expulsion / 2)
+    The Curse of the Duergar - S09E21  (The Sixth Doctor Adventures / Expulsion / 3)
+    Harry Houdini's war - S09E23  (Monthly Range / nan / 255)
+    Last of the Cybermen - S09E24  (Monthly Range / nan / 199)
+    Criss-cross - S09E25  (Monthly Range / nan / 204)
+    Planet of the rani - S09E26  (Monthly Range / nan / 205)
+    Shield of the Jötunn - S09E27  (Monthly Range / nan / 206)
+    The end of the line - S09E28  (The Sixth Doctor Adventures / The Last Advenure / 1)
+    The darkened earth - S09E29  (Short Trips / Series 8 / 7)
+    Order of the daleks - S09E30  (Monthly Range / nan / 218)
+    Colony of fear - S09E31  (Monthly Range / nan / 273)
+    One for all - S09E32  (The Sixth Doctor Adventures / The Eleven / 1)
+    The Murder of Oliver Akkron - S09E33  (The Sixth Doctor Adventures / The Eleven / 2)
+    Elevation - S09E34  (The Sixth Doctor Adventures / The Eleven / 3)
+    The Story Demon - S09E35  (The Sixth Doctor Adventures / The Cosmos and Mrs Clarke / 1)
+    The Key to Many Worlds - S09E36  (The Sixth Doctor Adventures / The Cosmos and Mrs Clarke / 2)
+    Inconstancy - S09E37  (The Sixth Doctor Adventures / The Cosmos and Mrs Clarke / 3)
+    Absolute power - S09E38  (Monthly Range / nan / 219)
+    Quicksilver - S09E39  (Monthly Range / nan / 220)
+    The Behemoth - S09E40  (Monthly Range / nan / 231)
+    The Middle - S09E41  (Monthly Range / nan / 232)
+    Static - S09E42  (Monthly Range / nan / 233)
+    Cry of the Vultriss - S09E43  (Monthly Range / nan / 263)
+    Scorched earth - S09E44  (Monthly Range / nan / 264)
+    The lovecraft Invasion - S09E45  (Monthly Range / nan / 265)
+    Sibling Rivalry / Children of the revolution - S09E47  (The Sixth Doctor Adventures / The Quin Dilemma / 3 - 4)
+  -- S10 --
+    The wings of a butterfly - S10E1  (Short Trips / Volume 1 / 6)
+    Intuition - S10E13  (Subscriber Short Trips / nan / 18)
+    Mel-Evolent - S10E15  (Short Trips / Series 8 / 2)
+    The Exaltation - S10E18  (The Sixth Doctor Adventures / The Quin Dilemma / 1)
+    The Firstborn - S10E19  (The Sixth Doctor Adventures / The Quin Dilemma / 6)
+    The ultimate Poe - S10E21  (Interludes / nan / 8)
+    The Trials of a Time Lord - S10E22  (The Sixth Doctor Adventures / The Trials of a Time Lord / 1)
+    The one doctor - S10E24  (Monthly Range / nan / 27)
+    the juggernauts - S10E25  (Monthly Range / nan / 65)
+    Catch-1782 - S10E26  (Monthly Range / nan / 68)
+    Thicker than water - S10E27  (Monthly Range / nan / 73)
+    The Spaceport Fear - S10E30  (Monthly Range / nan / 170)
+    the seeds of war - S10E31  (Monthly Range / nan / 171)
+  -- S11 --
+    The Rotting Deep - S11E1  (The Sixth Doctor Adventures / Water Worlds / 1)
+    The Tides of the Moon - S11E2  (The Sixth Doctor Adventures / Water Worlds / 2)
+    The dream nexus - S11E3  (Interludes / nan / 2)
+    Maelstrom - S11E4  (The Sixth Doctor Adventures / Water Worlds / 3)
+    The Mindless Ones - S11E5  (The Sixth Doctor Adventures / Purity Undreamed / 1)
+    Reverse Engineering - S11E6  (The Sixth Doctor Adventures / Purity Undreamed / 2)
+    Chronomancer - S11E7  (The Sixth Doctor Adventures / Purity Undreamed / 3)
+    Broadway belongs to Mel - S11E8  (The Sixth Doctor Adventures / Purity Unleashed / 1)
+    Purfication - S11E9  (The Sixth Doctor Adventures / Purity Unleashed / 2)
+    Time - Burst - S11E10  (The Sixth Doctor Adventures / Purity Unleashed / 3)
+    Girl in a Bottle - S11E11  (The Sixth Doctor Adventures / Purity Unbound / 1)
+    The Corruptions - S11E12  (The Sixth Doctor Adventures / Purity Unbound / 2)
+    The Wrong Side of History - S11E13  (The Sixth Doctor Adventures / Purity Unbound / 3)
+
+=== 7th Dr ===
+  -- S02 --
+    the defectors - S02E10  (Monthly Range / nan / 198)
+    Cut-Out - S02E11  (Short Trips / Impeccable and Other Stories / 3)
+  -- S05 --
+    Emerald Isle - S05E14  (Short Trips / Tales from the Vortex / 5)
+    The split infinitive - S05E15  (The Legacy of Time / nan / 2)
+    Alixion - S05E16  (The Lost Stories / S09 / 2)
+  -- S06 --
+    The harvest - S06E1  (Monthly Range / nan / 58)
+    Dreamtime - S06E2  (Monthly Range / nan / 67)
+    LIVE 34 - S06E3  (Monthly Range / nan / 74)
+    night thoughts - S06E4  (Monthly Range / nan / 79)
+    The Veiled Leopard - S06E5  (Bonus Releases / nan / Special)
+    The settling - S06E6  (Monthly Range / nan / 82)
+    No Man's land - S06E7  (Monthly Range / nan / 89)
+    Nocturne - S06E8  (Monthly Range / nan / 92)
+    The Dark husband - S06E9  (Monthly Range / nan / 106)
+    False gods - S06E10  (Monthly Range / nan / 115A)
+    Order of simplicity - S06E11  (Monthly Range / nan / 115B)
+    Casualties of war - S06E12  (Monthly Range / nan / 115C)
+    The Word Lord - S06E13  (Monthly Range / nan / 115D)
+    Shadow planet - S06E14  (Monthly Range / nan / 226A)
+    World apart - S06E15  (Monthly Range / nan / 226B)
+    Muse of fire - S06E16  (Monthly Range / nan / 245)
+    The flying dutchmen - S06E17  (Monthly Range / nan / 268A)
+    Displaced - S06E18  (Monthly Range / nan / 268B)
+    The magic mousetrap - S06E19  (Monthly Range / nan / 120)
+    enemy of the daleks - S06E20  (Monthly Range / nan / 121)
+    The angel of scutari - S06E21  (Monthly Range / nan / 122)
+    Project: Destiny - S06E22  (Monthly Range / nan / 139)
+    Lurkers at sunlight's edge - S06E24  (Monthly Range / nan / 141)
+    Robophobia - S06E25  (Monthly Range / nan / 149)
+    the doomsday quatrain - S06E26  (Monthly Range / nan / 151)
+    House of blue fire - S06E27  (Monthly Range / nan / 152)
+    Project: Nirvana - S06E28  (The Companion Chronicles / S07 / 3)
+    Protect and survive - S06E29  (Monthly Range / nan / 162)
+    Black and white - S06E30  (Monthly Range / nan / 163)
+    Gods and monsters - S06E31  (Monthly Range / nan / 164)
+    Afterlife - S06E32  (Monthly Range / nan / 181)
+    Revenge of the swarm - S06E33  (Monthly Range / nan / 189)
+    Mask of Tragedy - S06E34  (Monthly Range / nan / 190)
+    Signs and wonders - S06E35  (Monthly Range / nan / 191)
+  -- S07 --
+    You are the doctor - S07E1  (Monthly Range / nan / 207A)
+    Come die with me - S07E2  (Monthly Range / nan / 207B)
+    The grand Betelgeuse Hotel - S07E3  (Monthly Range / nan / 207C)
+    Dead to the world - S07E4  (Monthly Range / nan / 207D)
+  -- S09 --
+    Random Ghosts / The Lights of Skaro - S09E5  (The New Adventures of Bernice Summerfield / The New Adventures of Bernice Summerfield / 2024-04-03 00:00:00)
+    The Prisoner's Dilemma - S09E10  (The Companion Chronicles / S03 / 8)
+  -- S10 --
+    The psychic circus - S10E6  (Monthly Range / nan / 261)
+    Klein's story - S10E8  (Monthly Range / nan / 131A)
+    Survival of the fittest - S10E9  (Monthly Range / nan / 131B)
+  -- S11 --
+    With the Angels Part 1 - S11E5  (The Seventh Doctor Adventures / Past Forward / 1)
+    Catastrophix - S11E6  (The Seventh Doctor Adventures / Past Forward / 2)
+    With the Angels Part 2 - S11E7  (The Seventh Doctor Adventures / Past Forward / 3)
+  -- S12 --
+    The death collectors - S12E13  (Monthly Range / nan / 109A)
+    Spider's Shadow - S12E14  (Monthly Range / nan / 109B)
+    Kingdom of Silver - S12E15  (Monthly Range / nan / 112A)
+    Keepsake - S12E16  (Monthly Range / nan / 112B)
+    Dominion - S12E17  (The Seventh Doctor Adventures / Special / Special)
+    The Shadow heart - S12E18  (Monthly Range / nan / 167)
+    Warlock's Cross - S12E22  (Monthly Range / nan / 244)
+  -- S13 --
+    Missy - S13E5  (Dark Gallifrey / nan / 1 - 3)
+    The Last Day (Part 1) - S13E9  (The Seventh Doctor Adventures / The Last Day 1 / 1)
+    The Last Day (Part 2) - S13E10  (The Seventh Doctor Adventures / The Last Day 2 / 1)
+
+=== 8th Dr ===
+  -- S02 --
+    The Crowd - S02E13  (Doom's Day / Dying Hours / 4)
+    Ahead of Time - S02E14  (Short Trips / Tales from the Vortex / 4)
+  -- S03 --
+    Bramble King - S03E8  (Halloween / Sea Smoke and Other Stories / 3)
+  -- S13 --
+    The Harrow - S13E3  (Planet Krynoid / Survivors / 2)
+    Sunset - S13E4  (Planet Krynoid / Nightfall / 2)
+  -- S16 --
+    Till Death Us Do Part - S16E1  (The Paternoster Gang / Trespassers: Rogues Gallery / 3)
+    The Final Poblom - S16E2  (The Paternoster Gang / Trespassers: Last Stand / 12)
+    Master! - S16E4  (Dark Gallifrey / nan / 1 - 3)
+  -- FS01 --
+    Hellbound - FS01E1  (Master! / Planet doom / 3)
+    The Knight, the fool and the Dead - FS01E5  (nan / nan / nan)
+    All flesh is grass - FS01E6  (nan / nan / nan)
+    Tales of the Dark Time #3 - FS01E7  (nan / nan / nan)
+    Tales of the Dark Time #5 - FS01E8  (nan / nan / nan)
+  -- FS04 --
+    Spoil of War - FS04E8  (The Eighth Doctor: Time War / Pursuit / 1)
+    The Tale of Alex - FS04E9  (The Eighth Doctor: Time War / Pursuit / 2)
+    See-Saw - FS04E10  (The Eighth Doctor: Time War / Pursuit / 3)
+    The First Forest - FS04E11  (The Eighth Doctor: Time War / Pursuit / 4)
+    The Only Girl in the World - FS04E12  (The Eighth Doctor: Time War / Branches / 1)
+    False Dawn - FS04E13  (The Eighth Doctor: Time War / Branches / 2)
+    The Council of Susan - FS04E14  (The Eighth Doctor: Time War / Branches / 3)
+    All Over - FS04E15  (The Eighth Doctor: Time War / Branches / 4)
+  -- FS05 --
+    Hooklight 2 - FS05E2  (The Fifth Doctor Adventures / Hooklight 2 / 2)
+    Death will not part us - FS05E7  (Short Trips / Series 11 / 4)
+    Lies in ruins - FS05E8  (The Legacy of Time / nan / 1)
+
+=== War Dr ===
+  -- S03 --
+    The Twilight Enclave - S03E13  (The War Doctor Rises / Fear of the Light / 1)
+    The Frozen Wastes - S03E14  (The War Doctor Rises / Fear of the Light / 2)
+    The Burning Lands - S03E15  (The War Doctor Rises / Fear of the Light / 3)
+  -- S04 --
+    Engines of war - S04E13  (nan / nan / nan)
+
+=== 9th Dr ===
+  -- S03 --
+    Is Anybody There? - S03E13  (Short Trips / Impeccable and Other Stories / 6)
+  -- S04 --
+    Snare - S04E10  (The Ninth Doctor Adventures / Series 4 / 1)
+    The Last Days of the Powell Estate - S04E11  (The Ninth Doctor Adventures / Series 4 / 2)
+    Dare You - S04E12  (The Ninth Doctor Adventures / Series 4 / 3)
+    Cloud Eight - S04E13  (The Ninth Doctor Adventures / Series 4 / 4)
+    Pandemonium - S04E14  (The Ninth Doctor Adventures / Series 4 / 5)
+    Thirteen O'Clock - S04E15  (The Ninth Doctor Adventures / Series 4 / 6)
+    Monstrous Beauty - S04E16  (nan / nan / nan)
+    The knight, the fool and the dead - S04E17  (nan / nan / nan)
+    All the flesh is grass - S04E18  (nan / nan / nan)
+    Tales of the dark Times #4 - S04E19  (nan / nan / nan)
+    Tales of the dark Times #5 - S04E20  (nan / nan / nan)
+
+=== 10th Dr ===
+  -- S04 --
+    Fear of flying - S04E13  (Short Trips / Series 11 / 5)
+  -- S05 --
+    What the TARDIS thought of "Time Lord Victorious" - S05E2  (nan / nan / nan)
+    The Knight, the fool and the Dead - S05E3  (nan / nan / nan)
+    Tales of the Dark Times # 1 - S05E4  (nan / nan / nan)
+    All flesh is grass - S05E6  (nan / nan / nan)
+  -- S07 --
+    The Kraken of Hagwell - S07E8  (The Companion Chronicles / The Legacy of Time / 1)
+    The Heartless Sea - S07E9  (The Companion Chronicles / The Legacy of Time / 2)
+    Collision Course - S07E10  (The Legacy of Time / nan / 6)
+    When I Say Run... - S07E11  (Short Trips / Tales from the Vortex / 2)
+
+=== 11th Dr ===
+  -- S01 --
+    The Jago and Litefoot Revival - S01E15  (Short Trips / Series 7 / 2026-04-03 00:00:00)
+    Rise of the Eukaryans - S01E21  (Short Trips / Tales from the Vortex / 3)
+  -- S02 --
+    The Final Cut - S02E27  (The Eleventh Doctor Chronicles / The First Question / 1)
+    The tourist trap - S02E28  (The Eleventh Doctor Chronicles / The First Question / 2)
+    A delusion of witches - S02E29  (The Eleventh Doctor Chronicles / The First Question / 3)
+  -- S03 --
+    Thin Time - S03E12  (Monthly Range / nan / 267A)
+    Regeneration Impossible - S03E13  (Short Trips / Series 10 / 5)
+
+=== 12th Dr ===
+  -- S02 --
+    The Astrea Conspiracy - S02E11  (Short Trips / Series 9 / 2)
+    Merlin's trap - S02E13  (Halloween / Sea Smoke and Other Stories / 4)
+  -- S03 --
+    The Best Laid Plans - S03E3  (Short Trips / Series 9 / Special)
+    Regeneration Impossible - S03E4  (Short Trips / Series 10 / 5)
+    Dark Watchers of California - S03E15  (Short Trips / Tales from the Vortex / 1)
+    Bring Me the Head of Dorium Maldovar - S03E16  (Short Trips / Impeccable and Other Stories / 4)
+    Sunstrike - S03E19  (The Twelfth Doctor Chronicles / You Only Die Twice / 1)
+    Never the End Is - S03E20  (The Twelfth Doctor Chronicles / You Only Die Twice / 2)
+    You Only Die Twice - S03E21  (The Twelfth Doctor Chronicles / You Only Die Twice / 3)
+    Dead Media - S03E22  (Short Trips / Series 9 / 9)
+    The Chaos Cascade - S03E24  (The Audio Novels / nan / 7)
+
+=== 13th Dr ===
+  -- S03 --
+    Vampire Weekend - S03E1  (The Thirteenth Doctor Adventures / 1 / 1)
+    The Return of the Doctor - S03E2  (The Thirteenth Doctor Adventures / 1 / 2)
+    Lionesses in Winter - S03E3  (The Thirteenth Doctor Adventures / 1 / 3)
+    Ride or Die - S03E4  (The Thirteenth Doctor Adventures / 1 / 4)
+    The Violet Hour - S03E5  (The Thirteenth Doctor Adventures / 1 / 5)
+    Aegis - S03E6  (The Thirteenth Doctor Adventures / 1 / 6)
+    The Hallamshire Incident - S03E7  (The Thirteenth Doctor Adventures / 1 / 7)
+  -- S05 --
+    Wich World / The Reality War - S05E2  (Modern Who / S15 / 2026-08-07 00:00:00)
+
+=== 14th Dr ===
+  -- S01 --
+    The star Beast - S01E2  (Modern Who / 2023 Specials / Special)
+    Wild Blue Yonder - S01E3  (Modern Who / 2023 Specials / Special)
+    The Giggle - S01E4  (Modern Who / 2023 Specials / Special)
+
+=== 15th Dr ===
+  -- S01 --
+    The Giggle - S01E1  (Modern Who / 2023 Specials / Special)
+  -- S02 --
+    The Church on ruby road - S02E1  (Modern Who / S14 / Special)
+    Space Babies - S02E2  (Modern Who / S14 / 1)
+    The Devils Chord - S02E3  (Modern Who / S14 / 2)
+    Boom - S02E4  (Modern Who / S14 / 3)
+    Dot and Bubble - S02E6  (Modern Who / S14 / 5)
+    The Legend of Ruby Sunday / Empire of Death - S02E8  (Modern Who / S14 / 7 - 8)
+    Pantheon of Discord - S02E9  (Modern Who / S14 / Special)
+  -- S03 --
+    Joy to the world - S03E1  (Modern Who / S15 / Special)
+    The Robot Revolution - S03E2  (Modern Who / S15 / 1)
+    Lux - S03E3  (Modern Who / S15 / 2)
+    The well - S03E4  (Modern Who / S15 / 3)
+    Lucky Day - S03E5  (Modern Who / S15 / 4)
+    The Story & the Engine - S03E6  (Modern Who / S15 / 5)
+    The Interstellar Song Contest - S03E7  (Modern Who / S15 / 5)
+    Wich World / The Reality War - S03E8  (Modern Who / S15 / 2026-08-07 00:00:00)
+
+=== The Valeyard ===
+  -- S01 --
+    The end of the line - S01E6  (The Sixth Doctor Adventures / The Last Advenure / 1)
+    Stage fright - S01E8  (The Sixth Doctor Adventures / The Last Advenure / 3)
+
+=== The Curator ===
+  -- S01 --
+    Canaries - S01E1  (nan / nan / nan)
+
+=== Unbound Dr ===
+  -- S01 --
+    The angel of history - S01E12  (Bernice Summerfield / Series 17 - The Story so Far / 6.0)
+    Inertia / Gallifrey - S01E19  (The New Adventures of Bernice Summerfield / Lost in Translation / 3.0)
+
+=== Fugitive Dr ===
+  -- S01 --
+    The Dimension of lost things - S01E3  (The Fugitive Doctor Adventures / Most Wanted / 3.0)
+  -- S02 --
+    Fast times - S02E1  (The Fugitive Doctor Adventures / Most Wanted / 1.0)
+    The Legend of Baba Yaga - S02E2  (The Fugitive Doctor Adventures / Most Wanted / 2.0)
+    The Dimension of lost things - S02E4  (The Fugitive Doctor Adventures / Most Wanted / 3.0)
+
+=== Misc Unbound Drs ===
+  -- S01 --
+    Knights of the Round TARDIS - S01E1  (Doctor Who Unbound / The First Doctor Unbound / 1.0)
+    Return to Marinus - S01E2  (Doctor Who Unbound / The First Doctor Unbound / 2.0)
+
+=== Torchwood ===
+  -- S01 --
+    Rictus - S01E9  (Torchwood Monthly Range / nan / 93)
+  -- S02 --
+    Everyone's Dead on Floor 3 - S02E2  (Torchwood Monthly Range / nan / 98)
+    Madam, I'm - S02E9  (Torchwood Monthly Range / nan / 52)
+    The Man From Room 13 - S02E10  (Torchwood Soho / Parasite / 1)
+    Meet Mr Lyme - S02E11  (Torchwood Soho / Parasite / 2)
+    The Mould - S02E12  (Torchwood Soho / Parasite / 3)
+    The Spread - S02E13  (Torchwood Soho / Parasite / 4)
+    THe Dead Hand - S02E14  (Torchwood Soho / Parasite / 5)
+    The Liberty of Norton Folgate - S02E15  (Torchwood Soho / Parasite / 6)
+    The Black Knight - S02E28  (Torchwood Monthly Range / nan / 50X)
+    Burning Bright - S02E29  (Torchwood Soho / Ascension / 1)
+    Chariot of Fire - S02E30  (Torchwood Soho / Ascension / 2)
+    The Invisible Worm - S02E31  (Torchwood Soho / Ascension / 3)
+    We Have Built Jerusalem - S02E32  (Torchwood Soho / Ascension / 4)
+    Dark Satanic Mills - S02E33  (Torchwood Soho / Ascension / 5)
+    Fearful Symmetry - S02E34  (Torchwood Soho / Ascension / 6)
+  -- S04 --
+    Tube Strike - S04E2  (Torchwood Monthly Range / nan / 81)
+    Dinner for Yvonne - S04E6  (Torchwood One / I hate Mondays / 1)
+    Disco - S04E7  (Torchwood Monthly Range / nan / 83)
+    By Royal Appointment - S04E8  (Torchwood One / I hate Mondays / 2)
+    Nerves - S04E9  (Torchwood One / I hate Mondays / 3)
+  -- S06 --
+    The War Master - S06E1  (Dark Gallifrey / nan / 1 - 3)
+    Piece of Mind - S06E4  (The Lives of Captain Jack / Volume 2 / 1)
+  -- S08 --
+    Sigil - S08E25  (Torchwood Monthly Range / nan / 74)
+  -- S09 --
+    Ianto's Inferno - S09E8  (Torchwood Monthly Range / nan / 91)
+    Missing Molly - S09E14  (Torchwood Monthly Range / nan / 82)
+    End Game - S09E24  (Torchwood Monthly Range / nan / 86)
+    Rhys and Ianto's Excellent Barbecue - S09E34  (Torchwood Monthly Range / nan / 44)
+    Absent Friends (Torchwood) - S09E35  (nan / nan / nan)
+    The Lincolnshire poacher - S09E36  (Torchwood Monthly Range / nan / 67)
+    Launch date - S09E37  (Torchwood Monthly Range / nan / 73)
+    Widdershins - S09E38  (Torchwood Monthly Range / nan / 88)
+    Fare Well - S09E39  (Torchwood Monthly Range / nan / 100)
+  -- S10 --
+    Coffee - S10E6  (Torchwood Monthly Range / nan / 46)
+    What Have I Done - S10E7  (The Lives of Captain Jack / Volume 2 / 2)
+    One enchanted Evening - S10E9  (The Lives of Captain Jack / Volume 1 / 3)
+    The green Life - S10E10  (Torchwood Monthly Range / nan / 26)
+    Poppet - S10E11  (Torchwood Monthly Range / nan / 79)
+    The Hollow Choir - S10E12  (Torchwood Monthly Range / nan / 87)
+  -- S12 --
+    Dog Hop - S12E2  (Torchwood Monthly Range / nan / 75)
+    We always get out alive - S12E7  (Torchwood Monthly Range / nan / 21)
+    Night of the Fendahl - S12E8  (Torchwood Monthly Range / nan / 25)
+    Sonny - S12E9  (Torchwood Monthly Range / nan / 59)
+    Driving miss wells - S12E11  (The Lives of Captain Jack / Volume 2 / 3)
+  -- S16 --
+    Aliens Next Door - S16E1  (Torchwood: Among Us / Among Us 1 / 1)
+    Colin Alone - S16E2  (Torchwood: Among Us / Among Us 1 / 2)
+    Misty Eyes - S16E3  (Torchwood: Among Us / Among Us 1 / 3)
+    Moderation - S16E4  (Torchwood: Among Us / Among Us 1 / 4)
+    Propaganda - S16E5  (Torchwood: Among Us / Among Us 2 / 5)
+    At Her Majesty's Pleasure - S16E6  (Torchwood: Among Us / Among Us 2 / 6)
+    Cuckoo - S16E7  (Torchwood: Among Us / Among Us 2 / 7)
+    Pariahs - S16E8  (Torchwood: Among Us / Among Us 2 / 8)
+    How I Conquered the World - S16E9  (Torchwood: Among Us / Among Us 3 / 9)
+    Doomscroll - S16E10  (Torchwood: Among Us / Among Us 3 / 10)
+    Heistland - S16E11  (Torchwood: Among Us / Among Us 3 / 11)
+    The Apocalypse Starts at 6PM - S16E12  (Torchwood: Among Us / Among Us 3 / 12)
+  -- S17 --
+    Another Postcard from Mr Colchester - S17E4  (Torchwood Monthly Range / nan / 80X)
+    Sabotage - S17E5  (Torchwood Monthly Range / nan / 80)
+  -- S18 --
+    The five people you kill in Middlesbrough - S18E1  (Torchwood Monthly Range / nan / 51)
+    A Christmas Card from Mr Colchester - S18E6  (Torchwood Monthly Range / nan / 90X)
+    Reflect - S18E7  (Torchwood Monthly Range / nan / 90)
+    The Boy Who Never Laughed - S18E8  (Torchwood Monthly Range / nan / 94)
+    Salvage - S18E9  (Torchwood Monthly Range / nan / 96)
+    Curtain - S18E10  (Torchwood Monthly Range / nan / 99)
+  -- S19 --
+    Mighty and despair - S19E3  (The Lives of Captain Jack / Volume 3 / 2)
+    R & J - S19E4  (The Lives of Captain Jack / Volume 3 / 3)
+  -- S20 --
+    The Sublime Porte - S20E3  (The War Master / Rogue Encounters / 3)
+  -- S21 --
+    Odyssey - S21E4  (Torchwood Monthly Range / nan / 76)
+    Oracle - S21E5  (Torchwood Monthly Range / nan / 78)
+    Oodunnit - S21E7  (Torchwood Monthly Range / nan / 77)
+
+=== K-9 ===
+  -- S01 --
+    Imperiatrix - S01E9  (nan / nan / nan)
+
+=== The Master ===
+  -- S01 --
+    The psychic circus - S01E5  (Monthly Range / nan / 261)
+  -- S03 --
+    The Box of Terror - S03E6  (The Audio Novels / nan / 6)
+    The threshold - S03E7  (Short Trips / Series 11 / 3)
+    The Kraken of Hagwell - S03E7  (The Companion Chronicles / The Legacy of Time / 1)
+  -- S04 --
+    Jago & Son - S04E5  (Jago & Litefoot / 11 / 1)
+  -- S06 --
+    The Ultimate Poe - S06E13  (Interludes / nan / 8)
+    The end of the line - S06E15  (The Sixth Doctor Adventures / The Last Advenure / 1)
+  -- S07 --
+    The Last Day (Part 1) - S07E3  (The Seventh Doctor Adventures / The Last Day 1 / 1)
+    The Last Day (Part 2) - S07E4  (The Seventh Doctor Adventures / The Last Day 2 / 1)
+  -- S08 --
+    Capture the Chronovore! - S08E9  (Master! / Nemesis Express / 2)
+    Basilisk - S08E11  (Master! / Planet doom / 1)
+    Axos Rising - S08E12  (Master! / Planet doom / 2)
+    Hellbound - S08E13  (Master! / Planet doom / 3)
+    Master! - S08E14  (Dark Gallifrey / nan / 1 - 3)
+    Impeccable - S08E15  (Short Trips / Impeccable and Other Stories / 1)
+  -- S10 --
+    Dominion - S10E1  (The Seventh Doctor Adventures / Special / Special)
+  -- S12 --
+    The War Master - S12E5  (Dark Gallifrey / nan / 1 - 3)
+    The Walls of Absence - S12E6  (The War Master / Solitary Confinement / 1)
+    The Long Despair - S12E7  (The War Master / Solitary Confinement / 2)
+    The Life and Loves of Mr Alexander Bennett - S12E8  (The War Master / Solitary Confinement / 3)
+    The Kicker - S12E9  (The War Master / Solitary Confinement / 4)
+    Runtime - S12E10  (The War Master / Rogue Encounters / 1)
+    Manhunt (War Master) - S12E11  (The War Master / Rogue Encounters / 2)
+    The Sublime Porte - S12E12  (The War Master / Rogue Encounters / 3)
+  -- S13 --
+    Alone - S13E18  (The War Master / Rogue Encounters / 4)
+    His Close Companions - S13E19  (The War Master / Future Phantoms / 1)
+    The Foxglove Cylinders - S13E20  (The War Master / Future Phantoms / 2)
+    The Sitter - S13E21  (The War Master / Future Phantoms / 3)
+    Signal and I'll Come to You - S13E22  (The War Master / Future Phantoms / 4)
+    The Grievance Bureau - S13E23  (The War Master / His Greatest Trick / 1)
+    Last Girl Standing - S13E24  (The War Master / His Greatest Trick / 2)
+    The Worst of All Evils - S13E25  (The War Master / His Greatest Trick / 3)
+    The Blue Shift Ritual - S13E26  (The War Master / His Greatest Trick / 4)
+  -- S16 --
+    The Destiny Labyrinth - S16E8  (UNIT: The New Series / Nemesis: Masters of time / 3)
+    True Nemesis - S16E9  (UNIT: The New Series / Nemesis: Masters of time / 4)
+    Missy - S16E11  (Dark Gallifrey / nan / 1 - 3)
+    The Chaos Cascade - S16E15  (The Audio Novels / nan / 7)
+  -- S18 --
+    The Craft of Corruption - S18E4  (Call me Master / Monsters / 1)
+    The Ideal Quarry - S18E5  (Call me Master / Monsters / 2)
+    Reformation - S18E6  (Call me Master / Monsters / 3)
+
+=== Naomi + Harry ===
+  -- S02 --
+    One Way or Another - S02E6  (UNIT: The New Series / Nemesis: Masters of time / 1.0)
+    True Nemesis - S02E7  (UNIT: The New Series / Nemesis: Masters of time / 4.0)
+    The Heartless Sea - S02E8  (The Companion Chronicles / The Legacy of Time / 2.0)
+  -- S03 --
+    With the Angels Part 1 - S03E5  (The Seventh Doctor Adventures / Past Forward / 1.0)
+    Catastrophix - S03E6  (The Seventh Doctor Adventures / Past Forward / 2.0)
+    With the Angels Part 2 - S03E7  (The Seventh Doctor Adventures / Past Forward / 3.0)
+
+=== Jago & Litefoot ===
+  -- S01 --
+    The Spirit Trap - S01E6  (Jago & Litefoot / 1 / 3)
+    The Similarity Engine - S01E7  (Jago & Litefoot / 1 / 4)
+    Litefoot and Sanders - S01E8  (Jago & Litefoot / 2 / 1)
+    The Necropolis Express - S01E9  (Jago & Litefoot / 2 / 2)
+    The Theatre of Dreams - S01E10  (Jago & Litefoot / 2 / 3)
+    The Ruthven inheritance - S01E11  (Jago & Litefoot / 2 / 4)
+    Dead men's tales - S01E12  (Jago & Litefoot / 3 / 1)
+    The man at the end of the garden - S01E13  (Jago & Litefoot / 3 / 2)
+    Swan song - S01E14  (Jago & Litefoot / 3 / 3)
+    Chronoclasm - S01E15  (Jago & Litefoot / 3 / 4)
+    Jago in Love - S01E16  (Jago & Litefoot / 4 / 1)
+    Beautiful Things - S01E17  (Jago & Litefoot / 4 / 2)
+    The Lonely Clock - S01E18  (Jago & Litefoot / 4 / 3)
+    The Hourglass Killers - S01E19  (Jago & Litefoot / 4 / 4)
+    Voyage to Venus - S01E20  (The Sixth Doctor Adventures / Special / Special)
+    Voyage to the new world - S01E21  (The Sixth Doctor Adventures / Special / Special)
+  -- S02 --
+    Mind Games - S02E7  (The Worlds of Doctor Who / 1 / 1)
+    The Screaming Skull - S02E8  (The Worlds of Doctor Who / 1 / 3)
+    Stage Fright - S02E17  (The Sixth Doctor Adventures / The Last Advenure / 3)
+  -- S03 --
+    Jago & Son - S03E10  (Jago & Litefoot / 11 / 1)
+    The Jago and Litefoot revival - S03E18  (Short Trips / Series 7 / 2026-04-03 00:00:00)
+  -- S04 --
+    The Lord of Misrule - S04E13  (The Audio Novels / nan / 8)
+
+=== Graceless ===
+  -- S00 --
+    The Prisoner's Dilemma - S00E1  (The Companion Chronicles / S03 / 8.0)
+  -- S01 --
+    The archive - S01E9  (The Worlds of Big Finish / 1 / 1.0)
+
+=== Vienna ===
+  -- S01 --
+    The shadow heart - S01E1  (Monthly Range / nan / 167.0)
+    The memory box - S01E2  (Vienna / The Memory Box / 1.0)
+    The lady from Callisto Rhys - S01E3  (The Worlds of Big Finish / 1 / 5.0)
+    The Phantom Wreck - S01E4  (The Worlds of Big Finish / 1 / 6.0)
+  -- S02 --
+    Dead drop - S02E1  (Vienna / Series one / 1.0)
+    Bad Faith - S02E2  (Vienna / Series one / 2.0)
+    Deathworld (Vienna) - S02E3  (Vienna / Series one / 3.0)
+    Tabula Rasa - S02E4  (Vienna / Series Two / 1.0)
+    Underworld - S02E5  (Vienna / Series Two / 2.0)
+    The Vienna Experience - S02E6  (Vienna / Series Two / 3.0)
+    Self Improvement - S02E7  (Vienna / Series Three / 1.0)
+    Big Society - S02E8  (Vienna / Series Three / 2.0)
+    Impossibly Glamarous - S02E9  (Vienna / Series Three / 3.0)
+    Retribution: Part 1 - S02E10  (Vienna / Retribution / 1.0)
+    Retribution: Part 2 - S02E11  (Vienna / Retribution / 2.0)
+    Retribution: Part 3 - S02E12  (Vienna / Retribution / 3.0)
+  -- S03 --
+    Capture the Chronovore! - S03E4  (Master! / Nemesis Express / 2.0)
+    Basilisk - S03E6  (Master! / Planet doom / 1.0)
+    Axos Rising - S03E7  (Master! / Planet doom / 2.0)
+    Hellbound - S03E8  (Master! / Planet doom / 3.0)
+
+=== Bernice Summerfield ===
+  -- S02 --
+    Oh No It Isn't! - S02E1  (Bernice Summerfield / Series 1 / 1)
+    Making Myths - S02E5  (Bernice Summerfield / Buried Treasures / 1)
+    Closure - S02E6  (Bernice Summerfield / Buried Treasures / 1)
+  -- S03 --
+    The Green-Eyed Monsters - S03E2  (Bernice Summerfield / Series 3 / 2)
+  -- S04 --
+    The Relics of Jegg-Sau - S04E4  (Bernice Summerfield / Series 5 / 4)
+    Silver Lining - S04E5  (Bernice Summerfield / Series 5 / Special)
+    The Masquerade of Death - S04E6  (Bernice Summerfield / Series 5 / 4)
+    The Goddess Quandary - S04E9  (Bernice Summerfield / Series 6 / 4)
+  -- S05 --
+    Timeless Passages - S05E2  (Bernice Summerfield / Series 7 / 2)
+  -- S06 --
+    The 100 Days of the Doctor - S06E1  (Monthly Range / nan / 100D)
+    The Diogenes Damsel - S06E5  (nan / nan / nan)
+    Venus Mantrap - S06E9  (Bernice Summerfield / Series 10 / 3)
+    Secret Origins - S06E10  (Bernice Summerfield / Series 10 / 4)
+  -- S07 --
+    Dead Man's Switch (Bernice Summerfield) - S07E4  (Bernice Summerfield / Series 11 / 4)
+  -- S08 --
+    Everyone Loves Irving - S08E7  (Bernice Summerfield / Series 14 - Legion / 3)
+  -- S10 --
+    Random Ghosts / The Lights of Skaro - S10E3  (The New Adventures of Bernice Summerfield / The New Adventures of Bernice Summerfield / 2024-04-03 00:00:00)
+    The lady from Callisto Rhys - S10E8  (The Worlds of Big Finish / 1 / 5)
+    The Phantom Wreck - S10E9  (The Worlds of Big Finish / 1 / 6)
+  -- S12 --
+    The angel of history - S12E1  (Bernice Summerfield / Series 17 - The Story so Far / 6)
+    Inertia / Gallifrey - S12E8  (The New Adventures of Bernice Summerfield / Lost in Translation / 3)
+  -- S13 --
+    Lies in Ruins - S13E1  (The Legacy of Time / nan / 1)
+    Collision course - S13E2  (The Legacy of Time / nan / 6)
+    The Last Day (Part 1) - S13E4  (The Seventh Doctor Adventures / The Last Day 1 / 1)
+    The Last Day (Part 2) - S13E5  (The Seventh Doctor Adventures / The Last Day 2 / 1)
+    The War Master - S13E6  (Dark Gallifrey / nan / 1 - 3)
+    The Armageddon Chair - S13E8  (The New Adventures of Bernice Summerfield / The Eternity Club 1 / 1)
+    Triumph of the Drahvin - S13E9  (The New Adventures of Bernice Summerfield / The Eternity Club 1 / 2)
+    Rhubarb - S13E10  (The New Adventures of Bernice Summerfield / The Eternity Club 2 / 1)
+    Please Retain Your Ticket for the Cloakroom - S13E11  (The New Adventures of Bernice Summerfield / The Eternity Club 2 / 2)
+    The Terrible Shame of a Tree - S13E12  (The New Adventures of Bernice Summerfield / The Eternity Club 3 / 1)
+    Mr Pym Has an Adventure - S13E13  (The New Adventures of Bernice Summerfield / The Eternity Club 3 / 2)
+    Sanctuary - S13E14  (The New Adventures of Bernice Summerfield / The Eternity Club 4 / 1)
+    Liturgy of Death - S13E15  (The New Adventures of Bernice Summerfield / The Eternity Club 4 / 2)
+    The Lonely Bomb - S13E16  (The New Adventures of Bernice Summerfield / The Dalek Eternity 1 / 1)
+    Satrap - S13E17  (The New Adventures of Bernice Summerfield / The Dalek Eternity 1 / 2)
+    The Winner's Tale - S13E18  (The New Adventures of Bernice Summerfield / The Dalek Eternity 2 / 1)
+    Oversoul - S13E19  (The New Adventures of Bernice Summerfield / The Dalek Eternity 2 / 2)
+    Quisling - S13E20  (The New Adventures of Bernice Summerfield / The Dalek Eternity 3 / 1)
+    We Don't Talk About Mavic Chen - S13E21  (The New Adventures of Bernice Summerfield / The Dalek Eternity 3 / 2)
+    Vizier - S13E22  (The New Adventures of Bernice Summerfield / The Dalek Eternity 4 / 1)
+    Emperor - S13E23  (The New Adventures of Bernice Summerfield / The Dalek Eternity 4 / 2)
+
+=== Jenny The Doctors Daughter ===
+  -- S01 --
+    Relative time - S01E2  (The Legacy of Time / nan / 4.0)
+    Florence O'Connor and the Sandwich of Doom - S01E12  (Jenny: The Doctor's Daughter / Saving Time / 1.0)
+    A Beginner's Guide to Monsters (and How to Slay Them) - S01E13  (Jenny: The Doctor's Daughter / Saving Time / 2.0)
+    Genesis of the Humans - S01E14  (Jenny: The Doctor's Daughter / Saving Time / 3.0)
+    Reboot (JTDD audio story) - S01E15  (Jenny: The Doctor's Daughter / Saving Time / 4.0)
+
+=== The Diary of River Song ===
+  -- S02 --
+    The power of river song - S02E4  (UNIT: The New Series / Incursions / 3 - 4)
+  -- S04 --
+    Lies in ruins - S04E2  (The Legacy of Time / nan / 1)
+    Friend of the family - S04E20  (The Diary of River Song / Friend of the Family / 1 - 4)
+  -- S05 --
+    Apokalypsis - S05E1  (The Death and Life of River song / Last Words / 1)
+    Fate and Fatality - S05E2  (The Death and Life of River song / Last Words / 2)
+    The Black Hours - S05E3  (The Death and Life of River song / Last Words / 3)
+    Book of the Dead - S05E4  (The Death and Life of River song / Last Words / 4)
+    Castaways - S05E5  (The Death and Life of River song / Ace and Tegan / 1)
+    Driftwood - S05E6  (The Death and Life of River song / Ace and Tegan / 2)
+    Dead Rising - S05E7  (The Death and Life of River song / Ace and Tegan / 3)
+    The End is the Beginning is the End - S05E8  (The Death and Life of River song / Ace and Tegan / 4)
+    R & J - S05E9  (The Lives of Captain Jack / Volume 3 / 3)
+    The Armageddon Game - S05E9  (The Death and Life of River song / The Dissolution of Time / 1)
+    Anne Boleyn Must Die - S05E10  (The Death and Life of River song / The Dissolution of Time / 2)
+    A Good Woman Goes to War - S05E11  (The Death and Life of River song / The Dissolution of Time / 3)
+    The Schism Bloom - S05E12  (The Death and Life of River song / The Dissolution of Time / 4)
+
+=== The Paternoster Gang ===
+  -- S03 --
+    The Ghost and the Potato Man - S03E1  (The Paternoster Gang / Trespassers: Rogues Gallery / 1)
+    Symmetry of Death - S03E2  (The Paternoster Gang / Trespassers: Rogues Gallery / 2)
+    Till Death Us Do Part - S03E3  (The Paternoster Gang / Trespassers: Rogues Gallery / 3)
+    Anne of a Thousand Light Years - S03E4  (The Paternoster Gang / Trespassers: The Casebook of Paternoster Row / 1)
+    Pater Noster - S03E5  (The Paternoster Gang / Trespassers: The Casebook of Paternoster Row / 2)
+    The Gentlemen Thieves - S03E6  (The Paternoster Gang / Trespassers: The Casebook of Paternoster Row / 3)
+    Doppelgangers - S03E7  (The Paternoster Gang / Trespassers: No Place Like Home / 7)
+    Jellyfish - S03E8  (The Paternoster Gang / Trespassers: No Place Like Home / 8)
+    The Houseguest - S03E9  (The Paternoster Gang / Trespassers: No Place Like Home / 9)
+    I Married a Zygon - S03E10  (The Paternoster Gang / Trespassers: Last Stand / 10)
+    A Passion for Fashion - S03E11  (The Paternoster Gang / Trespassers: Last Stand / 11)
+    The Final Poblom - S03E12  (The Paternoster Gang / Trespassers: Last Stand / 12)
+
+=== UNIT ===
+  -- S02 --
+    Dimension 13 - S02E26  (The Audio Novellas / nan / 2)
+  -- S03 --
+    The Sacrifice of Jo Grant - S03E7  (The Legacy of Time / nan / 3)
+  -- S06 --
+    The box of terror - S06E7  (The Audio Novels / nan / 6)
+    Operation: Vengeance - S06E8  (The Third Doctor Adventures / Operation Vengeance / 1)
+    The Imposters - S06E9  (The Third Doctor Adventures / The Imposters / 1)
+  -- S07 --
+    The Ministry of Death - S07E6  (The Fourth Doctor Adventures / The Ministry of Death / 1)
+    The Inhumane Empire - S07E7  (The Fourth Doctor Adventures / The Ministry of Death / 2)
+    Cry of the Banshee - S07E11  (The Fourth Doctor Adventures / The Ruins of Kaerula / 5)
+  -- S08 --
+    The Helliax rift - S08E5  (Monthly Range / nan / 237)
+    Dominion - S08E7  (The Seventh Doctor Adventures / Special / Special)
+    Warlock's cross - S08E10  (Monthly Range / nan / 244)
+    With the Angels Part 1 - S08E12  (The Seventh Doctor Adventures / Past Forward / 1)
+  -- S09 --
+    Rogue State - S09E1  (UNIT: Brave New World / Seabird One / 1)
+    Time Flies - S09E2  (UNIT: Brave New World / Seabird One / 2)
+    Dark side of the moon - S09E3  (UNIT: Brave New World / Seabird One / 3)
+    The frequency - S09E4  (UNIT: Brave New World / Visitants / 1)
+    Haunt - S09E5  (UNIT: Brave New World / Visitants / 2)
+    The last line of defence - S09E6  (UNIT: Brave New World / Visitants / 3)
+    Kaiju - S09E7  (UNIT: Brave New World / Fractures / 1)
+    Debrief - S09E8  (UNIT: Brave New World / Fractures / 2)
+    Shatterpoint - S09E9  (UNIT: Brave New World / Fractures / 3)
+    Deep Water - S09E10  (UNIT: Brave New World / Knightfall / 1)
+    Storm Over Albion - S09E11  (UNIT: Brave New World / Knightfall / 2)
+    Shining Armour - S09E12  (UNIT: Brave New World / Knightfall / 3)
+  -- S10 --
+    The Kraken of Hagwell - S10E12  (The Companion Chronicles / The Legacy of Time / 1)
+  -- S11 --
+    Rise of the Valiant - S11E7  (UNIT: Eras / Hostile Universe / 1)
+  -- S12 --
+    The screaming skull - S12E5  (The Worlds of Doctor Who / 1 / 3)
+  -- S14 --
+    Hosts of the Wirrm - S14E9  (UNIT: The New Series / Revisitations / 1 - 2)
+    The Power of River Song - S14E18  (UNIT: The New Series / Incursions / 3 - 4)
+    The sacrifice of Jo Grant - S14E19  (The Legacy of Time / nan / 3)
+  -- S15 --
+    Second Sight - S15E2  (The Worlds of Doctor Who / 1 / 4)
+  -- S16 --
+    One Way or Another - S16E13  (UNIT: The New Series / Nemesis: Masters of time / 1)
+    Traitor's Gate - S16E14  (UNIT: The New Series / Nemesis: Masters of time / 2)
+    The Destiny Labyrinth - S16E15  (UNIT: The New Series / Nemesis: Masters of time / 3)
+    True Nemesis - S16E16  (UNIT: The New Series / Nemesis: Masters of time / 4)
+    Party Favours - S16E17  (Halloween / Sea Smoke and Other Stories / 2)
+  -- S18 --
+    The Indigo Child - S18E2  (UNIT: Eras / Hostile Universe / 2)
+  -- S19 --
+    Homo Aqua - S19E1  (the War Between The Land And the Sea / S01 / 1)
+    Plastic Apocalypse - S19E2  (the War Between The Land And the Sea / S01 / 2)
+    The Star Beast - S19E3  (Modern Who / 2023 Specials / Special)
+    The Deep - S19E3  (the War Between The Land And the Sea / S01 / 3)
+    The Giggle - S19E4  (Modern Who / 2023 Specials / Special)
+    The Witch of the Waterfall - S19E4  (the War Between The Land And the Sea / S01 / 4)
+    Deadstar - S19E5  (UNIT: Eras / Hostile Universe / 4)
+    The end of the War - S19E5  (the War Between The Land And the Sea / S01 / 5)
+    The Legend of Ruby Sunday / Empire of Death - S19E6  (Modern Who / S14 / 7 - 8)
+    Lucky Day - S19E7  (Modern Who / S15 / 4)
+    Wich World / The Reality War - S19E8  (Modern Who / S15 / 2026-08-07 00:00:00)
+  -- S21 --
+    Project: Destiny - S21E1  (Monthly Range / nan / 139)
+
+=== Gallifrey ===
+  -- S01 --
+    Collision course - S01E3  (The Legacy of Time / nan / 6)
+    Morbius - S01E5  (Dark Gallifrey / nan / 1 - 3)
+  -- S02 --
+    The Dimension of lost things - S02E2  (The Fugitive Doctor Adventures / Most Wanted / 3)
+    Fast times - S02E3  (The Fugitive Doctor Adventures / Most Wanted / 1)
+    The Legend of Baba Yaga - S02E4  (The Fugitive Doctor Adventures / Most Wanted / 2)
+    The Dimension of lost things - S02E6  (The Fugitive Doctor Adventures / Most Wanted / 3)
+  -- S05 --
+    The Threshold - S05E12  (Short Trips / Series 11 / 3)
+  -- S08 --
+    The Wings of a butterfly - S08E3  (Short Trips / Volume 1 / 6)
+    Antidote to oblivion - S08E10  (Monthly Range / nan / 182)
+  -- S09 --
+    Goth Opera - S09E3  (The Novel Adaptation / nan / 12)
+    MIssy - S09E6  (Dark Gallifrey / nan / 1 - 3)
+  -- S10 --
+    Master! - S10E11  (Dark Gallifrey / nan / 1 - 3)
+  -- S11 --
+    Inertia / Gallifrey - S11E2  (The New Adventures of Bernice Summerfield / Lost in Translation / 3)
+    The Last Day (Part 1) - S11E3  (The Seventh Doctor Adventures / The Last Day 1 / 1)
+    The Last Day (Part 2) - S11E4  (The Seventh Doctor Adventures / The Last Day 2 / 1)
+    Second Sight - S11E9  (The Worlds of Doctor Who / 1 / 4)
+    Damned If You Do - S11E13  (Gallifrey / Echoes Through Eternity / 1)
+  -- S12 --
+    The Questing Beast - S12E3  (Gallifrey / Echoes Through Eternity / 2)
+    Dominion - S12E13  (The Seventh Doctor Adventures / Special / Special)
+  -- S13 --
+    The Ruthven inheritance - S13E1  (Jago & Litefoot / 2 / 4)
+    Dead men's tales - S13E2  (Jago & Litefoot / 3 / 1)
+    The Man at the End of the Garden - S13E3  (Jago & Litefoot / 3 / 2)
+    Swan song - S13E4  (Jago & Litefoot / 3 / 3)
+    Chronoclasm - S13E5  (Jago & Litefoot / 3 / 4)
+    Jago in Love - S13E6  (Jago & Litefoot / 4 / 1)
+    Beautiful Things - S13E7  (Jago & Litefoot / 4 / 2)
+    The Lonely Clock - S13E8  (Jago & Litefoot / 4 / 3)
+    The Hourglass Killers - S13E9  (Jago & Litefoot / 4 / 4)
+  -- S14 --
+    Collision course - S14E2  (The Legacy of Time / nan / 6)
+    The Box of Terror - S14E6  (The Audio Novels / nan / 6)
+  -- S15 --
+    In Search of Lost Time - S15E4  (Gallifrey / Echoes Through Eternity / 3)
+    The War Master - S15E5  (Dark Gallifrey / nan / 1 - 3)
+  -- S17 --
+    Spoil of War - S17E19  (The Eighth Doctor: Time War / Pursuit / 1)
+    The Tale of Alex - S17E20  (The Eighth Doctor: Time War / Pursuit / 2)
+    See-Saw - S17E21  (The Eighth Doctor: Time War / Pursuit / 3)
+    The First Forest - S17E22  (The Eighth Doctor: Time War / Pursuit / 4)
+    The Only Girl in the World - S17E23  (The Eighth Doctor: Time War / Branches / 1)
+    False Dawn - S17E24  (The Eighth Doctor: Time War / Branches / 2)
+    The Council of Susan - S17E25  (The Eighth Doctor: Time War / Branches / 3)
+    All Over - S17E26  (The Eighth Doctor: Time War / Branches / 4)
+  -- S18 --
+    Lies in Ruins - S18E5  (The Legacy of Time / nan / 1)
+    Death will not part us - S18E10  (Short Trips / Series 11 / 4)
+    Collaborators - S18E11  (Gallifrey: War Room / Manoeuvres / 1)
+    Remnants - S18E12  (Gallifrey: War Room / Manoeuvres / 2)
+    Transference - S18E13  (Gallifrey: War Room / Manoeuvres / 3)
+    Ambition's Debt - S18E14  (Gallifrey: War Room / Manoeuvres / 4)
+    Propaganda (Gallifrey) - S18E15  (Gallifrey: War Room / Loyalties / 1)
+    Resistance (Gallifrey) - S18E16  (Gallifrey: War Room / Loyalties / 2)
+    Hope - S18E17  (Gallifrey: War Room / Loyalties / 3)
+    Eye for an Eye - S18E18  (Gallifrey: War Room / Loyalties / 4)
+    Damned if you don't - S18E19  (Gallifrey / Echoes Through Eternity / 4)
+  -- S20 --
+    The Twilight Enclave - S20E9  (The War Doctor Rises / Fear of the Light / 1)
+    The Frozen Wastes - S20E10  (The War Doctor Rises / Fear of the Light / 2)
+    The Burning Lands - S20E11  (The War Doctor Rises / Fear of the Light / 3)
+  -- S23 --
+    The Meddling Monks - S23E4  (Dark Gallifrey / nan / 1 - 3)
+
+=== Zygon Century ===
+  -- S01 --
+    Rictus - S01E1  (Torchwood Monthly Range / nan / 93.0)
+    1901 - The Unknowing Mirror - S01E2  (Zygon Century / Infiltration / 1.0)
+    1922: The Black Cadre - S01E3  (Zygon Century / Transformation / 1.0)
+    1935 - The Miracle of Pendour Cove - S01E4  (Zygon Century / Infiltration / 2.0)
+    1957 - Double Agent - S01E5  (Zygon Century / Infiltration / 3.0)
+    1968: An Incident in Death Valley - S01E6  (Zygon Century / Transformation / 2.0)
+    1974: The Caldwell Restitution - S01E7  (Zygon Century / Transformation / 3.0)
+
+=== Planet Krynoid ===
+  -- S01 --
+    Sunlight - S01E1  (Planet Krynoid / Nightfall / 1.0)
+    Sunset - S01E2  (Planet Krynoid / Nightfall / 2.0)
+    Darkness - S01E3  (Planet Krynoid / Nightfall / 3.0)
+    The Hunt - S01E4  (Planet Krynoid / Survivors / 1.0)
+    The Harrow - S01E5  (Planet Krynoid / Survivors / 2.0)
+    The Harvest (Krynoid) - S01E6  (Planet Krynoid / Survivors / 3.0)
+
+=== Davros ===
+  -- S02 --
+    Random Ghosts / The Lights of Skaro - S02E2  (The New Adventures of Bernice Summerfield / The New Adventures of Bernice Summerfield / 2024-04-03 00:00:00)
+    The juggernauts - S02E9  (Monthly Range / nan / 65)
+    The Trials of a Time Lord - S02E10  (The Sixth Doctor Adventures / The Trials of a Time Lord / 1)
+
+=== Daleks ===
+  -- S01 --
+    Random Ghosts / The Lights of Skaro - S01E10  (The New Adventures of Bernice Summerfield / The New Adventures of Bernice Summerfield / 2024-04-03 00:00:00)
+  -- S02 --
+    Masters of earth - S02E2  (Monthly Range / nan / 193)
+  -- S07 --
+    order of the daleks - S07E4  (Monthly Range / nan / 218)
+    nightmare of the daleks - S07E17  (The Fifth Doctor Adventures / The Lost Resort and Other Stories / 3)
+  -- S08 --
+    the juggernauts - S08E4  (Monthly Range / nan / 65)
+    The Trials of a Time Lord - S08E9  (The Sixth Doctor Adventures / The Trials of a Time Lord / 1)
+  -- S10 --
+    Random Ghosts / The Lights of Skaro - S10E10  (The New Adventures of Bernice Summerfield / The New Adventures of Bernice Summerfield / 2024-04-03 00:00:00)
+  -- S12 --
+    Timelord victorious trailer - S12E1  (nan / nan / nan)
+    The restoration empire - S12E2  (nan / nan / nan)
+    The last message - S12E3  (nan / nan / nan)
+    Defender of the daleks - S12E9  (nan / nan / nan)
+    The knight, the fool and the dead - S12E12  (nan / nan / nan)
+    All flesh is grass - S12E13  (nan / nan / nan)
+    Mission to the known - S12E14  (nan / nan / nan)
+    All flesh is grass - S12E15  (nan / nan / nan)
+    Exit strategy - S12E17  (nan / nan / nan)
+    Time lord victorious trailer - S12E18  (nan / nan / nan)
+  -- S13 --
+    Runtime - S13E7  (The War Master / Rogue Encounters / 1)
+  -- S14 --
+    Remnants - S14E11  (Gallifrey: War Room / Manoeuvres / 2)
+    Ambition's Debt - S14E12  (Gallifrey: War Room / Manoeuvres / 4)
+    The Twilight Enclave - S14E23  (The War Doctor Rises / Fear of the Light / 1)
+    The Frozen Wastes - S14E24  (The War Doctor Rises / Fear of the Light / 2)
+    The Burning Lands - S14E25  (The War Doctor Rises / Fear of the Light / 3)
+
+=== Counter Measures ===
+  -- S01 --
+    The Dead Don't Rise - S01E2  (the New Counter-Measures / Who Killed Toby Kinsella? / 2)
+    The Reesinger Process - S01E6  (The Worlds of Doctor Who / 1 / 2)
+    The split infinitive - S01E8  (The Legacy of Time / nan / 2)
+    The split infinitive - S01E12  (The Legacy of Time / nan / 2)
+    The sacrifice of Jo Grant - S01E21  (The Legacy of Time / nan / 3)
+  -- S02 --
+    Who Killed Toby Kinsella - S02E1  (the New Counter-Measures / Who Killed Toby Kinsella? / 1)
+
+=== Space Security Service ===
+  -- S01 --
+    The Voord in London - S01E2  (Space Security Service / The Voord in London / 1)
+    The Thal from G.R.A.C.E - S01E3  (Space Security Service / The Voord in London / 2)
+    Allegiance - S01E4  (Space Security Service / The Voord in London / 3)
+
+=== Sherlock Holmes ===
+  -- S01 --
+    The guttering candle - S01E1  (Sherlock Holmes / Series 3: The Ordeals of Sherlock Holmes / 1)
+    The speckled Band - S01E2  (Sherlock Holmes / Series 1 / 4)
+    Holmes and the ripper - S01E4  (Sherlock Holmes / Series 1 / 3)
+    The hound of the Baskervilles - S01E5  (Sherlock Holmes / Series 2 / 3)
+    The tangled skein - S01E6  (Sherlock Holmes / Series 2 / 4)
+    The final problem - S01E7  (Sherlock Holmes / Series 2 / 1A)
+    Poppyland - S01E8  (Sherlock Holmes / Series 4: The Judgement of Sherlock Holmes / 1)
+    At the Gates of Shambhala - S01E9  (Sherlock Holmes / Series 4: The Judgement of Sherlock Holmes / 2)
+    The Man in the Moonlight - S01E10  (Sherlock Holmes / Series 4: The Judgement of Sherlock Holmes / 3)
+    Tragedy of Pargetter Square - S01E11  (Sherlock Holmes / Series 4: The Judgement of Sherlock Holmes / 4)
+    The empty house - S01E12  (Sherlock Holmes / Series 2 / 1B)
+    The Reification of Hans Gerber - S01E13  (Sherlock Holmes / Series 2 / 2)
+    The Adventure of the Gamekeeper's Folly - S01E14  (Sherlock Holmes / Series 3: The Ordeals of Sherlock Holmes / 2)
+    The Master of Blackstone Grange - S01E15  (Sherlock Holmes / Series 6 / 1)
+    The adventure of the Fleet Street transparency - S01E16  (Sherlock Holmes / Series 6 / 2)
+    The Seamstress of Peckham Rye - S01E17  (Sherlock Holmes / Series 7 / 1)
+    The Fiends of New York City - S01E18  (Sherlock Holmes / Series 7 / 2)
+    The Adventure of the Bermondsey Cutthroats - S01E19  (Sherlock Holmes / Series 3: The Ordeals of Sherlock Holmes / 3)
+    The Adventure of the Bloomsbury Bomber - S01E20  (The Worlds of Big Finish / 1 / 2)
+    The Adventure of the Perfidious Mariner - S01E21  (Sherlock Holmes / Series 2 / 5)
+    Ghosts of Christmas Past - S01E22  (The Confessions of Dorian Gray / Series 1 / Special)
+    The Last Act - S01E23  (Sherlock Holmes / Series 1 / 1)
+    The Death and Life - S01E24  (Sherlock Holmes / Series 1 / 2)
+    The Sowers of Despair - S01E25  (Sherlock Holmes / Series 3: The Ordeals of Sherlock Holmes / 4)
+    The Prophet in the Rain - S01E26  (Sherlock Holmes / Series 5 / 1)
+    The Body in the Garret - S01E27  (Sherlock Holmes / Series 5 / 2)
+    The Beast in the Darkness - S01E28  (Sherlock Holmes / Series 5 / 3)
+    The Shadow in the Water - S01E29  (Sherlock Holmes / Series 5 / 4)
+    The Feast of Magog - S01E30  (The Worlds of Big Finish / 1 / 3)
+
+=== Dorian Gray ===
+  -- S01 --
+    The Picture of Dorian Gray - S01E1  (The Confessions of Dorian Gray / Special / Special)
+    One Must Not Look at Mirrors - S01E2  (The Confessions of Dorian Gray / Series 5 / 1)
+    The Picture of Dorian Gray - S01E3  (The Confessions of Dorian Gray / Special / Special)
+    Banshee - S01E4  (The Confessions of Dorian Gray / Series 4 / 5)
+    This World Our Hell - S01E5  (The Confessions of Dorian Gray / Series 1 / 1)
+    The Adventure of the Bloomsbury Bomber - S01E6  (The Worlds of Big Finish / 1 / 2)
+    Ghosts of Christmas Past - S01E7  (The Confessions of Dorian Gray / Series 1 / Special)
+    The Immortal Game - S01E8  (The Confessions of Dorian Gray / Series 2 / 4)
+    Angel of War - S01E9  (The Confessions of Dorian Gray / Series 5 / 2)
+    Last Man Standing - S01E10  (The Confessions of Dorian Gray / The Lost Confession / 1)
+    The Prime of Deacon Brodie - S01E11  (The Confessions of Dorian Gray / Series 2 / Special)
+    The Feast of Magog - S01E12  (The Worlds of Big Finish / 1 / 3)
+    His Dying Breath - S01E13  (The Confessions of Dorian Gray / Series 4 / 4)
+    There Are Such Things... - S01E14  (The Confessions of Dorian Gray / The Lost Confession / 2)
+    Angel of War - S01E15  (The Confessions of Dorian Gray / Series 5 / 2)
+    Murder on 81st Street - S01E16  (The Confessions of Dorian Gray / Series 2 / 3)
+    The Houses in Between - S01E17  (The Confessions of Dorian Gray / Series 1 / 2)
+    Frostbite (DG) - S01E18  (The Confessions of Dorian Gray / Series 3 / Special)
+    The Valley of Nightmares - S01E19  (The Confessions of Dorian Gray / Series 5 / 3)
+    The Living Image - S01E20  (The Confessions of Dorian Gray / Series 4 / 8)
+    The Twittering of Sparrows - S01E21  (The Confessions of Dorian Gray / Series 1 / 3)
+    The Lord of Misrule (DG) - S01E22  (The Confessions of Dorian Gray / Series 2 / 2)
+    The Enigma of Dorian Gray - S01E23  (The Confessions of Dorian Gray / Series 4 / 1)
+    Freya - S01E24  (The Confessions of Dorian Gray / Series 4 / 2)
+    The Abysmal Sea - S01E25  (The Confessions of Dorian Gray / Series 4 / 6)
+    The Heart That Lives Alone - S01E26  (The Confessions of Dorian Gray / Series 1 / 4)
+    The Anniversary - S01E27  (The Confessions of Dorian Gray / Special / Special)
+    Trick or Treat - S01E28  (The Confessions of Dorian Gray / Series 4 / Special)
+    Human Remains - S01E29  (The Confessions of Dorian Gray / Series 4 / 3)
+    The Mayfair Monster - S01E30  (The Confessions of Dorian Gray / nan / Special)
+    The Fallen King of Britain - S01E31  (The Confessions of Dorian Gray / Series 1 / 5)
+    Inner Darkness - S01E32  (The Confessions of Dorian Gray / Series 4 / 7)
+    Gray Matters - S01E33  (The Confessions of Dorian Gray / Special / Special)
+    The Picture of Loretta Delphine - S01E34  (The Confessions of Dorian Gray / Series 2 / 1)
+    Running Away with You - S01E35  (The Confessions of Dorian Gray / Series 2 / 5)
+    Blank Canvas - S01E36  (The Confessions of Dorian Gray / Series 3 / 1)
+    The Needle - S01E37  (The Confessions of Dorian Gray / Series 3 / 2)
+    We are everywhere - S01E38  (The Confessions of Dorian Gray / Series 3 / 3)
+    Echoes (DG) - S01E39  (The Confessions of Dorian Gray / Series 3 / 4)
+    Pandora (DG) - S01E40  (The Confessions of Dorian Gray / Series 3 / 5)
+    Heart and Soul - S01E41  (The Confessions of Dorian Gray / Series 3 / 6)
+    Displacement Activity - S01E42  (The Confessions of Dorian Gray / Series 3 / 7)
+    The Darkest Hour - S01E43  (The Confessions of Dorian Gray / Series 3 / 8)
+    Desperately Seeking Santa - S01E44  (The Confessions of Dorian Gray / The Spirits of Christmas / 1)
+    All Through the House - S01E45  (The Confessions of Dorian Gray / The Spirits of Christmas / 2)
+    Ever After - S01E46  (The Confessions of Dorian Gray / Series 5 / 4)
+    The Last Confession - S01E47  (The Confessions of Dorian Gray / The Lost Confession / 3)
+    Isolation - S01E48  (The Confessions of Dorian Gray / Special / Special)
+
+=== The Monk ===
+  -- S02 --
+    The Defectors - S02E5  (Monthly Range / nan / 198)
+    Last of the Cybermen - S02E6  (Monthly Range / nan / 199)
+    The Secret History - S02E7  (Monthly Range / nan / 200)
+  -- S04 --
+    The Meddling Monks - S04E6  (Dark Gallifrey / nan / 1 - 3)
+  -- S05 --
+    The Meddling Monks - S05E2  (Dark Gallifrey / nan / 1 - 3)
+
+=== Iris Wildthyme ===
+  -- S01 --
+    The Key to Many Worlds - S01E3  (The Sixth Doctor Adventures / The Cosmos and Mrs Clarke / 2.0)
+    Whatever Happened to Iris Wildthyme? - S01E18  (Iris Wildtyme / Series 4 / 1.0)
+    Muse of fire - S01E21  (Monthly Range / nan / 245.0)
+  -- S02 --
+    Kronos Vad's History of Earth (Vol. 36,379) - S02E1  (The Worlds of Big Finish / 1 / 4.0)
+
+=== The Eleven ===
+  -- S02 --
+    The Box of Terror - S02E1  (The Audio Novels / nan / 6)
+  -- S04 --
+    Relative time - S04E4  (The Legacy of Time / nan / 4)
+  -- S05 --
+    One for all - S05E1  (The Sixth Doctor Adventures / The Eleven / 1)
+    The murder of Oliver Akkron - S05E2  (The Sixth Doctor Adventures / The Eleven / 2)
+    Elevation - S05E3  (The Sixth Doctor Adventures / The Eleven / 3)
+
+=== Orion War ===
+  -- S01 --
+    Kingdom of silver - S01E2  (Monthly Range / nan / 112A)
+    Keepsake - S01E3  (Monthly Range / nan / 112B)
+
+=== Forge Arc ===
+  -- S01 --
+    Medicinal Purposes - S01E12  (Monthly Range / nan / 60)
+    Pier Pressure - S01E13  (Monthly Range / nan / 78)
+    The nowhere place - S01E14  (Monthly Range / nan / 84)
+    100 BC - S01E15  (Monthly Range / nan / 100A)
+    My own private Wolfgang - S01E16  (Monthly Range / nan / 100B)
+    Bedtime Story - S01E17  (Monthly Range / nan / 100C)
+    The 100 days of the Doctor - S01E18  (Monthly Range / nan / 100D)
+    Assassin in the limelight - S01E19  (Monthly Range / nan / 108)
+    A town called fortune - S01E20  (The Companion Chronicles / S05 / 5)
+    The Crimes of Thomas Brewster - S01E21  (Monthly Range / nan / 143)
+    The feast of Axos - S01E22  (Monthly Range / nan / 144)
+    Industrial Evolution - S01E23  (Monthly Range / nan / 145)
+  -- S02 --
+    The Reaping - S02E1  (Monthly Range / nan / 86)
+    The Gathering - S02E2  (Monthly Range / nan / 87)
+    The harvest - S02E3  (Monthly Range / nan / 58)
+    Dreamtime - S02E4  (Monthly Range / nan / 67)
+    Thicker Than Water - S02E5  (Monthly Range / nan / 73)
+    LIVE 34 - S02E6  (Monthly Range / nan / 74)
+    night thoughts - S02E7  (Monthly Range / nan / 79)
+    The Veiled Leopard - S02E8  (Bonus Releases / nan / Special)
+    The settling - S02E9  (Monthly Range / nan / 82)
+    No Man's land - S02E10  (Monthly Range / nan / 89)
+    Nocturne - S02E11  (Monthly Range / nan / 92)
+    The Dark husband - S02E12  (Monthly Range / nan / 106)
+    False gods - S02E13  (Monthly Range / nan / 115A)
+    Order of simplicity - S02E14  (Monthly Range / nan / 115B)
+    Casualties of war - S02E15  (Monthly Range / nan / 115C)
+    The Word Lord - S02E16  (Monthly Range / nan / 115D)
+    Shadow planet - S02E17  (Monthly Range / nan / 226A)
+    World apart - S02E18  (Monthly Range / nan / 226B)
+    Muse of fire - S02E19  (Monthly Range / nan / 245)
+    The flying dutchmen - S02E20  (Monthly Range / nan / 268A)
+    Displaced - S02E21  (Monthly Range / nan / 268B)
+    The magic mousetrap - S02E22  (Monthly Range / nan / 120)
+    enemy of the daleks - S02E23  (Monthly Range / nan / 121)
+  -- S03 --
+    Thicker Than Water - S03E1  (Monthly Range / nan / 73)
+    The angel of scutari - S03E2  (Monthly Range / nan / 122)
+    Project: Destiny - S03E3  (Monthly Range / nan / 139)
+    Robophobia - S03E6  (Monthly Range / nan / 149)
+    The Doomsday Quatrain - S03E7  (Monthly Range / nan / 151)
+    House of blue fire - S03E8  (Monthly Range / nan / 152)
+    Lurkers at sunlight's edge - S03E9  (Monthly Range / nan / 141)
+    Protect and survive - S03E10  (Monthly Range / nan / 162)
+    Black and white - S03E11  (Monthly Range / nan / 163)
+    Project: Nirvana - S03E12  (The Companion Chronicles / S07 / 3)
+    Gods and monsters - S03E13  (Monthly Range / nan / 164)
+    Afterlife - S03E14  (Monthly Range / nan / 181)
+    Revenge of the swarm - S03E15  (Monthly Range / nan / 189)
+    Mask of Tragedy - S03E16  (Monthly Range / nan / 190)
+    Signs and wonders - S03E17  (Monthly Range / nan / 191)
+
+=== Time Lord Victorious ===
+  -- S01 --
+    Can I help you - S01E8  (nan / nan / nan)
+    A little help from my friends - S01E9  (nan / nan / nan)
+    Alternative currents - S01E10  (nan / nan / nan)
+  -- S02 --
+    Timelord victorious trailer - S02E1  (nan / nan / nan)
+    The restoration empire - S02E2  (nan / nan / nan)
+    The last message - S02E3  (nan / nan / nan)
+    Defender of the daleks - S02E9  (nan / nan / nan)
+    What the TARDIS thought of "Time Lord Victorious" - S02E15  (nan / nan / nan)
+  -- S03 --
+    The dawn of the Kotturuh - S03E1  (nan / nan / nan)
+    Time lord victorious trailer - S03E1  (nan / nan / nan)
+    The guide to the dark times - S03E2  (nan / nan / nan)
+    Canaries - S03E3  (nan / nan / nan)
+    Monstrous beauty - S03E4  (nan / nan / nan)
+    The knight, the fool and the dead - S03E5  (nan / nan / nan)
+    All flesh is grass - S03E6  (nan / nan / nan)
+    Tales of the Dark Times #1 - S03E8  (nan / nan / nan)
+    Tales of the Dark Times #2 - S03E9  (nan / nan / nan)
+    Tales of the Dark Times #3 - S03E10  (nan / nan / nan)
+    Tales of the Dark Times #4 - S03E11  (nan / nan / nan)
+    Tales of the Dark Times #5 - S03E12  (nan / nan / nan)
+    Mission to the known - S03E13  (nan / nan / nan)
+    All flesh is grass - S03E14  (nan / nan / nan)
+    Exit strategy - S03E16  (nan / nan / nan)
+
+=== Dooms Day ===
+  -- S01 --
+    Meet Doom - the Universe's Greatest Assassin! - S01E1  (nan / nan / nan)
+    Hour One - S01E2  (nan / nan / nan)
+    Target Selected - S01E3  (nan / nan / nan)
+    The Plastic Population - S01E4  (nan / nan / nan)
+    High Noon in Hollywood - S01E5  (nan / nan / nan)
+    The Horn of a Dilemma - S01E6  (nan / nan / nan)
+    The universe's greatest assassin has just 24 hours to escape Death and find the Doctor - where will Doom's Day take her next? - S01E7  (nan / nan / nan)
+    A Doctor in the House? - S01E8  (nan / nan / nan)
+    Mission update from Doom! - S01E9  (nan / nan / nan)
+    AI am the Doctor - S01E10  (nan / nan / nan)
+    15 hours left to find the Doctor, and Doom receives an unexpected communication - from a very good boy! - S01E11  (nan / nan / nan)
+    Extraction Point - S01E12  (nan / nan / nan)
+    A satellite over Earth with the number 5 on it… - S01E13  (nan / nan / nan)
+    Wrong Place at the Right Time - S01E14  (nan / nan / nan)
+    Time is counting down, Death is approaching, and the Doctor has yet to be found! - S01E15  (nan / nan / nan)
+    The steel Cascade - S01E16  (nan / nan / nan)
+    The Martian Dilemma - S01E17  (nan / nan / nan)
+    An Ood Halloween - S01E18  (nan / nan / nan)
+    Dark space - S01E19  (nan / nan / nan)
+    Dawn of an Everlasting Peace - S01E20  (Doom's Day / Dying Hours / 1.0)
+    A Date with Destiny - S01E21  (Doom's Day / Dying Hours / 2.0)
+    The Howling Wolves of Xan-Phear - S01E22  (Doom's Day / Dying Hours / 3.0)
+    The Crowd - S01E23  (Doom's Day / Dying Hours / 4.0)
+    Out of Time - S01E24  (nan / nan / nan)
+
+=== Time war ===
+  -- S01 --
+    Random Ghosts / The Lights of Skaro - S01E24  (The New Adventures of Bernice Summerfield / The New Adventures of Bernice Summerfield / 2024-04-03 00:00:00)
+  -- S02 --
+    Damned if you do - S02E5  (Gallifrey / Echoes Through Eternity / 1)
+  -- S03 --
+    In search of lost time - S03E3  (Gallifrey / Echoes Through Eternity / 3)
+  -- S04 --
+    The War master - S04E12  (Dark Gallifrey / nan / 1 - 3)
+    The Walls of Absence - S04E17  (The War Master / Solitary Confinement / 1)
+    The Long Despair - S04E18  (The War Master / Solitary Confinement / 2)
+    The Life and Loves of Mr Alexander Bennett - S04E19  (The War Master / Solitary Confinement / 3)
+    The Kicker - S04E20  (The War Master / Solitary Confinement / 4)
+    Runtime - S04E21  (The War Master / Rogue Encounters / 1)
+    Manhunt (War Master) - S04E22  (The War Master / Rogue Encounters / 2)
+    The Sublime Porte - S04E23  (The War Master / Rogue Encounters / 3)
+  -- S10 --
+    Spoil of War - S10E8  (The Eighth Doctor: Time War / Pursuit / 1)
+    The Tale of Alex - S10E9  (The Eighth Doctor: Time War / Pursuit / 2)
+    See-Saw - S10E10  (The Eighth Doctor: Time War / Pursuit / 3)
+    The First Forest - S10E11  (The Eighth Doctor: Time War / Pursuit / 4)
+    The Only Girl in the World - S10E12  (The Eighth Doctor: Time War / Branches / 1)
+    False Dawn - S10E13  (The Eighth Doctor: Time War / Branches / 2)
+    The Council of Susan - S10E14  (The Eighth Doctor: Time War / Branches / 3)
+    All Over - S10E15  (The Eighth Doctor: Time War / Branches / 4)
+  -- S11 --
+    Death will not part us - S11E6  (Short Trips / Series 11 / 4)
+    Lies in Ruins - S11E8  (The Legacy of Time / nan / 1)
+  -- S14 --
+    Collaborators - S14E5  (Gallifrey: War Room / Manoeuvres / 1)
+    Remnants - S14E6  (Gallifrey: War Room / Manoeuvres / 2)
+    Transference - S14E7  (Gallifrey: War Room / Manoeuvres / 3)
+    Ambition's Debt - S14E8  (Gallifrey: War Room / Manoeuvres / 4)
+    Propaganda (Gallifrey) - S14E9  (Gallifrey: War Room / Loyalties / 1)
+    Resistance (Gallifrey) - S14E10  (Gallifrey: War Room / Loyalties / 2)
+    Hope - S14E11  (Gallifrey: War Room / Loyalties / 3)
+    Eye for an Eye - S14E12  (Gallifrey: War Room / Loyalties / 4)
+    Damned if you don't - S14E13  (Gallifrey / Echoes Through Eternity / 4)
+  -- S18 --
+    The Twilight Enclave - S18E9  (The War Doctor Rises / Fear of the Light / 1)
+    The Frozen Wastes - S18E10  (The War Doctor Rises / Fear of the Light / 2)
+    The Burning Lands - S18E11  (The War Doctor Rises / Fear of the Light / 3)
+  -- S19 --
+    Alone - S19E25  (The War Master / Rogue Encounters / 4)
+    The knight, the fool and the dead - S19E28  (nan / nan / nan)
+    The last message - S19E29  (nan / nan / nan)
+    Mission to the known - S19E33  (nan / nan / nan)
+    All flesh is grass - S19E33  (nan / nan / nan)
+    Exit Strategy - S19E34  (nan / nan / nan)
+    When I say run... - S19E36  (Short Trips / Tales from the Vortex / 2)
